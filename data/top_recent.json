@@ -2,28 +2,28 @@
   {
     "appid": "1145350",
     "name": "Hades II",
-    "total_reviews": 104694,
-    "total_positive": 100160,
-    "ratio": 0.9566928381760177,
-    "weighted_score": 100160.0,
+    "total_reviews": 104753,
+    "total_positive": 100218,
+    "ratio": 0.9567076837894858,
+    "weighted_score": 100218.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/2ba105370a00877459144db0dd68af5f2d338429/library_capsule.jpg"
   },
   {
     "appid": "1904480",
     "name": "Absolum",
-    "total_reviews": 7089,
-    "total_positive": 6617,
-    "ratio": 0.9334179715051488,
-    "weighted_score": 6617.0,
+    "total_reviews": 7104,
+    "total_positive": 6629,
+    "ratio": 0.9331362612612613,
+    "weighted_score": 6629.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1904480/ade63b00f9dd2b767dc1fd7c0df0cd17013c7eed/library_capsule.jpg"
   },
   {
     "appid": "3375780",
     "name": "Trails in the Sky 1st Chapter",
-    "total_reviews": 3120,
-    "total_positive": 2990,
-    "ratio": 0.9583333333333334,
-    "weighted_score": 2990.0,
+    "total_reviews": 3131,
+    "total_positive": 3000,
+    "ratio": 0.9581603321622485,
+    "weighted_score": 3000.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3375780/5130e0696adf7d4e6183716f403f670af5112d4c/library_600x900.jpg"
   }
 ]

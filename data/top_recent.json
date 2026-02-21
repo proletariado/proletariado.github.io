@@ -2,28 +2,28 @@
   {
     "appid": "1145350",
     "name": "Hades II",
-    "total_reviews": 105310,
-    "total_positive": 100741,
-    "ratio": 0.9566138068559491,
-    "weighted_score": 100741.0,
+    "total_reviews": 105414,
+    "total_positive": 100839,
+    "ratio": 0.9565996926404462,
+    "weighted_score": 100839.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/2ba105370a00877459144db0dd68af5f2d338429/library_capsule.jpg"
   },
   {
     "appid": "3265060",
     "name": "Touhou Dystopian",
-    "total_reviews": 1858,
-    "total_positive": 1818,
-    "ratio": 0.9784714747039828,
-    "weighted_score": 1818.0,
+    "total_reviews": 1861,
+    "total_positive": 1821,
+    "ratio": 0.9785061794734013,
+    "weighted_score": 1821.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3265060/c51b09e97105809bc85b9245117b5710beaead5f/library_capsule.jpg"
   },
   {
     "appid": "2416100",
     "name": "Goodnight Universe",
-    "total_reviews": 1005,
-    "total_positive": 973,
-    "ratio": 0.9681592039800995,
-    "weighted_score": 973.0,
+    "total_reviews": 1011,
+    "total_positive": 979,
+    "ratio": 0.9683481701285855,
+    "weighted_score": 979.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2416100/library_600x900.jpg"
   }
 ]

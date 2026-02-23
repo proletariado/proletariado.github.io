@@ -1,29 +1,29 @@
 [
   {
-    "appid": "1145350",
-    "name": "Hades II",
-    "total_reviews": 105473,
-    "total_positive": 100893,
-    "ratio": 0.9565765646184331,
-    "weighted_score": 100893.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/2ba105370a00877459144db0dd68af5f2d338429/library_capsule.jpg"
-  },
-  {
     "appid": "3375780",
     "name": "Trails in the Sky 1st Chapter",
-    "total_reviews": 3225,
-    "total_positive": 3091,
-    "ratio": 0.9584496124031008,
-    "weighted_score": 3091.0,
+    "total_reviews": 3234,
+    "total_positive": 3099,
+    "ratio": 0.9582560296846011,
+    "weighted_score": 3099.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3375780/5130e0696adf7d4e6183716f403f670af5112d4c/library_600x900.jpg"
   },
   {
     "appid": "3265060",
     "name": "Touhou Dystopian",
-    "total_reviews": 1864,
-    "total_positive": 1824,
-    "ratio": 0.9785407725321889,
-    "weighted_score": 1824.0,
+    "total_reviews": 1865,
+    "total_positive": 1825,
+    "ratio": 0.9785522788203753,
+    "weighted_score": 1825.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3265060/c51b09e97105809bc85b9245117b5710beaead5f/library_capsule.jpg"
+  },
+  {
+    "appid": "2416100",
+    "name": "Goodnight Universe",
+    "total_reviews": 1012,
+    "total_positive": 980,
+    "ratio": 0.9683794466403162,
+    "weighted_score": 980.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2416100/library_600x900.jpg"
   }
 ]

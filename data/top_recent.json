@@ -2,28 +2,28 @@
   {
     "appid": "3265060",
     "name": "Touhou Dystopian",
-    "total_reviews": 1874,
-    "total_positive": 1833,
-    "ratio": 0.9781216648879403,
-    "weighted_score": 1833.0,
+    "total_reviews": 1875,
+    "total_positive": 1834,
+    "ratio": 0.9781333333333333,
+    "weighted_score": 1834.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3265060/c51b09e97105809bc85b9245117b5710beaead5f/library_capsule.jpg"
   },
   {
     "appid": "2416100",
     "name": "Goodnight Universe",
-    "total_reviews": 1027,
-    "total_positive": 995,
-    "ratio": 0.9688412852969815,
-    "weighted_score": 995.0,
+    "total_reviews": 1029,
+    "total_positive": 997,
+    "ratio": 0.9689018464528668,
+    "weighted_score": 997.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2416100/library_600x900.jpg"
   },
   {
     "appid": "1996390",
     "name": "Escape from Ever After",
-    "total_reviews": 975,
-    "total_positive": 948,
-    "ratio": 0.9723076923076923,
-    "weighted_score": 948.0,
+    "total_reviews": 981,
+    "total_positive": 954,
+    "ratio": 0.9724770642201835,
+    "weighted_score": 954.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1996390/709ed11197ffe34b1c472ab09fe76c438e152b98/library_capsule.jpg"
   }
 ]

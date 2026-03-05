@@ -1,5 +1,14 @@
 [
   {
+    "appid": "3265060",
+    "name": "Touhou Dystopian",
+    "total_reviews": 1879,
+    "total_positive": 1838,
+    "ratio": 0.9781798829164449,
+    "weighted_score": 1838.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3265060/c51b09e97105809bc85b9245117b5710beaead5f/library_capsule.jpg"
+  },
+  {
     "appid": "2416100",
     "name": "Goodnight Universe",
     "total_reviews": 1032,
@@ -11,19 +20,10 @@
   {
     "appid": "1996390",
     "name": "Escape from Ever After",
-    "total_reviews": 987,
-    "total_positive": 959,
-    "ratio": 0.9716312056737588,
-    "weighted_score": 959.0,
+    "total_reviews": 989,
+    "total_positive": 961,
+    "ratio": 0.9716885743174924,
+    "weighted_score": 961.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1996390/709ed11197ffe34b1c472ab09fe76c438e152b98/library_capsule.jpg"
-  },
-  {
-    "appid": "3017330",
-    "name": "Verho - Curse of Faces",
-    "total_reviews": 823,
-    "total_positive": 773,
-    "ratio": 0.9392466585662211,
-    "weighted_score": 773.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3017330/caaf92ea319b09531d3af63d941e5dae8e44f5c3/library_capsule.jpg"
   }
 ]

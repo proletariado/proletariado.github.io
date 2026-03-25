@@ -2,28 +2,28 @@
   {
     "appid": "3280350",
     "name": "DEATH STRANDING 2: ON THE BEACH",
-    "total_reviews": 4735,
-    "total_positive": 4539,
-    "ratio": 0.9586061246040126,
-    "weighted_score": 4539.0,
+    "total_reviews": 5188,
+    "total_positive": 4975,
+    "ratio": 0.9589437162683115,
+    "weighted_score": 4975.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3280350/9b523fd411eeaefe80f238489745325a1cd2317f/library_capsule.jpg"
   },
   {
     "appid": "2057760",
     "name": "Esoteric Ebb",
-    "total_reviews": 3563,
-    "total_positive": 3433,
-    "ratio": 0.9635138927869773,
-    "weighted_score": 3433.0,
+    "total_reviews": 3647,
+    "total_positive": 3518,
+    "ratio": 0.9646284617493831,
+    "weighted_score": 3518.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2057760/94a88a5659c9eb593d15bee7078e91a160ac11f6/library_capsule.jpg"
   },
   {
     "appid": "1996390",
     "name": "Escape from Ever After",
-    "total_reviews": 1122,
-    "total_positive": 1092,
-    "ratio": 0.9732620320855615,
-    "weighted_score": 1092.0,
+    "total_reviews": 1125,
+    "total_positive": 1095,
+    "ratio": 0.9733333333333334,
+    "weighted_score": 1095.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1996390/709ed11197ffe34b1c472ab09fe76c438e152b98/library_capsule.jpg"
   }
 ]

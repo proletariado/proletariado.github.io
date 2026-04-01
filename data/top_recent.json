@@ -2,28 +2,28 @@
   {
     "appid": "2057760",
     "name": "Esoteric Ebb",
-    "total_reviews": 4061,
-    "total_positive": 3921,
-    "ratio": 0.9655257325781827,
-    "weighted_score": 3921.0,
+    "total_reviews": 4117,
+    "total_positive": 3976,
+    "ratio": 0.9657517609910129,
+    "weighted_score": 3976.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2057760/94a88a5659c9eb593d15bee7078e91a160ac11f6/library_capsule.jpg"
   },
   {
     "appid": "1996390",
     "name": "Escape from Ever After",
-    "total_reviews": 1155,
-    "total_positive": 1123,
-    "ratio": 0.9722943722943723,
-    "weighted_score": 1123.0,
+    "total_reviews": 1159,
+    "total_positive": 1127,
+    "ratio": 0.9723899913718723,
+    "weighted_score": 1127.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1996390/709ed11197ffe34b1c472ab09fe76c438e152b98/library_capsule.jpg"
   },
   {
     "appid": "2416100",
     "name": "Goodnight Universe",
-    "total_reviews": 1110,
-    "total_positive": 1075,
-    "ratio": 0.9684684684684685,
-    "weighted_score": 1075.0,
+    "total_reviews": 1111,
+    "total_positive": 1076,
+    "ratio": 0.9684968496849685,
+    "weighted_score": 1076.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2416100/library_600x900.jpg"
   }
 ]

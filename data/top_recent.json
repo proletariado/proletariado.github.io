@@ -2,28 +2,28 @@
   {
     "appid": "2057760",
     "name": "Esoteric Ebb",
-    "total_reviews": 4117,
-    "total_positive": 3976,
-    "ratio": 0.9657517609910129,
-    "weighted_score": 3976.0,
+    "total_reviews": 4174,
+    "total_positive": 4032,
+    "ratio": 0.9659798754192621,
+    "weighted_score": 4032.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2057760/94a88a5659c9eb593d15bee7078e91a160ac11f6/library_capsule.jpg"
   },
   {
     "appid": "1996390",
     "name": "Escape from Ever After",
-    "total_reviews": 1159,
-    "total_positive": 1127,
-    "ratio": 0.9723899913718723,
-    "weighted_score": 1127.0,
+    "total_reviews": 1163,
+    "total_positive": 1131,
+    "ratio": 0.9724849527085124,
+    "weighted_score": 1131.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1996390/709ed11197ffe34b1c472ab09fe76c438e152b98/library_capsule.jpg"
   },
   {
-    "appid": "2416100",
-    "name": "Goodnight Universe",
-    "total_reviews": 1111,
-    "total_positive": 1076,
-    "ratio": 0.9684968496849685,
-    "weighted_score": 1076.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2416100/library_600x900.jpg"
+    "appid": "2393920",
+    "name": "Angeline Era",
+    "total_reviews": 563,
+    "total_positive": 544,
+    "ratio": 0.9662522202486679,
+    "weighted_score": 544.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2393920/9cb8948c0a35a2f2b4bc55ad2d8b54baad523a70/library_600x900.jpg"
   }
 ]

@@ -2,28 +2,28 @@
   {
     "appid": "2057760",
     "name": "Esoteric Ebb",
-    "total_reviews": 4215,
-    "total_positive": 4069,
-    "ratio": 0.965361803084223,
-    "weighted_score": 4069.0,
+    "total_reviews": 4264,
+    "total_positive": 4114,
+    "ratio": 0.9648217636022514,
+    "weighted_score": 4114.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2057760/94a88a5659c9eb593d15bee7078e91a160ac11f6/library_capsule.jpg"
   },
   {
     "appid": "1996390",
     "name": "Escape from Ever After",
-    "total_reviews": 1168,
-    "total_positive": 1136,
-    "ratio": 0.9726027397260274,
-    "weighted_score": 1136.0,
+    "total_reviews": 1173,
+    "total_positive": 1141,
+    "ratio": 0.9727195225916454,
+    "weighted_score": 1141.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1996390/709ed11197ffe34b1c472ab09fe76c438e152b98/library_capsule.jpg"
   },
   {
-    "appid": "2393920",
-    "name": "Angeline Era",
-    "total_reviews": 564,
-    "total_positive": 545,
-    "ratio": 0.9663120567375887,
-    "weighted_score": 545.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2393920/9cb8948c0a35a2f2b4bc55ad2d8b54baad523a70/library_600x900.jpg"
+    "appid": "2669860",
+    "name": "YAR: Forgotten Throne",
+    "total_reviews": 1024,
+    "total_positive": 954,
+    "ratio": 0.931640625,
+    "weighted_score": 954.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2669860/d11d6a1346acafa465e38df7714806d2abbf7bd4/library_capsule.jpg"
   }
 ]

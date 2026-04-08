@@ -2,28 +2,28 @@
   {
     "appid": "2057760",
     "name": "Esoteric Ebb",
-    "total_reviews": 4436,
-    "total_positive": 4281,
-    "ratio": 0.965058611361587,
-    "weighted_score": 4281.0,
+    "total_reviews": 4491,
+    "total_positive": 4333,
+    "ratio": 0.9648185259407704,
+    "weighted_score": 4333.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2057760/94a88a5659c9eb593d15bee7078e91a160ac11f6/library_capsule.jpg"
   },
   {
     "appid": "1996390",
     "name": "Escape from Ever After",
-    "total_reviews": 1192,
-    "total_positive": 1159,
-    "ratio": 0.9723154362416108,
-    "weighted_score": 1159.0,
+    "total_reviews": 1202,
+    "total_positive": 1169,
+    "ratio": 0.9725457570715474,
+    "weighted_score": 1169.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1996390/709ed11197ffe34b1c472ab09fe76c438e152b98/library_capsule.jpg"
   },
   {
-    "appid": "2416100",
-    "name": "Goodnight Universe",
-    "total_reviews": 1119,
-    "total_positive": 1085,
-    "ratio": 0.9696157283288651,
-    "weighted_score": 1085.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2416100/library_600x900.jpg"
+    "appid": "2669860",
+    "name": "YAR: Forgotten Throne",
+    "total_reviews": 1075,
+    "total_positive": 1000,
+    "ratio": 0.9302325581395349,
+    "weighted_score": 1000.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2669860/d11d6a1346acafa465e38df7714806d2abbf7bd4/library_capsule.jpg"
   }
 ]

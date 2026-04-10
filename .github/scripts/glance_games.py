@@ -7,8 +7,8 @@ from pathlib import Path
 
 # ============ CONFIGURATION ============
 TOP3_RATIO = 0.93   # Minimum ratio for the top 3 featured games
-MIN_RATIO = 0.80    # Minimum ratio for the remaining games
-TOP_N_GAMES = 9     # Total games to return (top 3 + remaining 6)
+MIN_RATIO = 0.75    # Minimum ratio for the remaining games
+TOP_N_GAMES = 9     # Total games to return
 INITIAL_POOL_SIZE = 100 # Bigger number = older games in the pool
 REQUEST_DELAY = 0.5  # Delay for review API
 STEAMCMD_DELAY = 0.5 # Delay for SteamCMD API to be respectful

@@ -9,42 +9,6 @@
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2057760/94a88a5659c9eb593d15bee7078e91a160ac11f6/library_capsule.jpg"
   },
   {
-    "appid": "2536520",
-    "name": "Diablo II: Resurrected – Infernal Edition",
-    "total_reviews": 4296,
-    "total_positive": 3797,
-    "ratio": 0.8838454376163873,
-    "weighted_score": 3797.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/e36657ec80e83a1265b0cb3073e3cb6246443314/library_capsule.jpg"
-  },
-  {
-    "appid": "2624870",
-    "name": "Life is Strange: Reunion",
-    "total_reviews": 3000,
-    "total_positive": 2746,
-    "ratio": 0.9153333333333333,
-    "weighted_score": 2746.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2624870/30bf25dcab56c81a003570c80c0dcfd286eff0e9/library_capsule.jpg"
-  },
-  {
-    "appid": "3050900",
-    "name": "ROMEO IS A DEAD MAN",
-    "total_reviews": 1798,
-    "total_positive": 1601,
-    "ratio": 0.8904338153503893,
-    "weighted_score": 1601.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3050900/39f052bf2a01254908330a1dfa5c0a6679b96d96/library_600x900.jpg"
-  },
-  {
-    "appid": "2499860",
-    "name": "DRAGON QUEST VII Reimagined",
-    "total_reviews": 1743,
-    "total_positive": 1538,
-    "ratio": 0.8823866896156053,
-    "weighted_score": 1538.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2499860/25b5d963c95e7a64e12d57f10b1d6b1a8b0ffb42/library_600x900.jpg"
-  },
-  {
     "appid": "1996390",
     "name": "Escape from Ever After",
     "total_reviews": 1208,
@@ -52,15 +16,6 @@
     "ratio": 0.972682119205298,
     "weighted_score": 1175.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1996390/709ed11197ffe34b1c472ab09fe76c438e152b98/library_capsule.jpg"
-  },
-  {
-    "appid": "2669860",
-    "name": "YAR: Forgotten Throne",
-    "total_reviews": 1090,
-    "total_positive": 1012,
-    "ratio": 0.9284403669724771,
-    "weighted_score": 1012.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2669860/d11d6a1346acafa465e38df7714806d2abbf7bd4/library_capsule.jpg"
   },
   {
     "appid": "1589570",
@@ -72,12 +27,57 @@
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1589570/44ae2fd2646edfdb68857d8cbcd0e12176601b43/library_600x900.jpg"
   },
   {
-    "appid": "3172700",
-    "name": "Banquet for Fools",
-    "total_reviews": 675,
-    "total_positive": 610,
-    "ratio": 0.9037037037037037,
-    "weighted_score": 610.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3172700/bd26d7dbffe78f9c8c9cbb6b8d3c36095bc46734/library_600x900.jpg"
+    "appid": "3321460",
+    "name": "Crimson Desert",
+    "total_reviews": 82041,
+    "total_positive": 68015,
+    "ratio": 0.8290367011616143,
+    "weighted_score": 68015.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3321460/0ea942465fd1dff8a7fbc11cc9fca8c476c5e5ae/library_capsule.jpg"
+  },
+  {
+    "appid": "3681010",
+    "name": "Nioh 3",
+    "total_reviews": 10299,
+    "total_positive": 8265,
+    "ratio": 0.8025050975822895,
+    "weighted_score": 8265.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3681010/a6c07532fbcfa8c7aeecddc251aa4a6a7156323c/library_capsule.jpg"
+  },
+  {
+    "appid": "2536520",
+    "name": "Diablo II: Resurrected – Infernal Edition",
+    "total_reviews": 4296,
+    "total_positive": 3797,
+    "ratio": 0.8838454376163873,
+    "weighted_score": 3797.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/e36657ec80e83a1265b0cb3073e3cb6246443314/library_capsule.jpg"
+  },
+  {
+    "appid": "2852190",
+    "name": "Monster Hunter Stories 3: Twisted Reflection",
+    "total_reviews": 4318,
+    "total_positive": 3465,
+    "ratio": 0.8024548402037981,
+    "weighted_score": 3465.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2852190/a7879e082b00ccb27a0ef4ef4dbe10d755aefe96/library_capsule.jpg"
+  },
+  {
+    "appid": "2624870",
+    "name": "Life is Strange: Reunion",
+    "total_reviews": 3000,
+    "total_positive": 2746,
+    "ratio": 0.9153333333333333,
+    "weighted_score": 2746.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2624870/30bf25dcab56c81a003570c80c0dcfd286eff0e9/library_capsule.jpg"
+  },
+  {
+    "appid": "2643390",
+    "name": "Star Trek: Voyager - Across the Unknown",
+    "total_reviews": 3366,
+    "total_positive": 2666,
+    "ratio": 0.792038027332145,
+    "weighted_score": 2666.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2643390/a3567e55f0fb86b1f17111b2723d6b2c0a0c1c5d/library_capsule.jpg"
   }
 ]

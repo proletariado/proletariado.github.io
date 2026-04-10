@@ -138,12 +138,6 @@ def main():
         
         print(f"  [{i}/{len(items)}] Checking: {name}")
         
-        # Check for excluded content (genres/categories)
-        if check_excluded_content(appid):
-            print(f"            ❌ Excluded (matches excluded genres/categories)")
-            time.sleep(APPDETAILS_DELAY)
-            continue
-        
         pos, neg = get_review_data(appid)
         total = pos + neg
         
@@ -162,6 +156,12 @@ def main():
         # Filter out games below ratio threshold
         if ratio < MIN_RATIO:
             print(f"            ❌ {ratio:.1%} rating (below {MIN_RATIO:.0%} threshold)")
+            continue
+
+        # Only check excluded content after passing review filters
+        if check_excluded_content(appid):
+            print(f"            ❌ Excluded (matches excluded genres/categories)")
+            time.sleep(APPDETAILS_DELAY)
             continue
         
         # Calculate weighted score: total reviews × ratio

@@ -9,6 +9,15 @@
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2057760/94a88a5659c9eb593d15bee7078e91a160ac11f6/library_capsule.jpg"
   },
   {
+    "appid": "2536520",
+    "name": "Diablo II: Resurrected – Infernal Edition",
+    "total_reviews": 4296,
+    "total_positive": 3797,
+    "ratio": 0.8838454376163873,
+    "weighted_score": 3797.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/e36657ec80e83a1265b0cb3073e3cb6246443314/library_capsule.jpg"
+  },
+  {
     "appid": "2624870",
     "name": "Life is Strange: Reunion",
     "total_reviews": 3000,
@@ -16,6 +25,24 @@
     "ratio": 0.9153333333333333,
     "weighted_score": 2746.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2624870/30bf25dcab56c81a003570c80c0dcfd286eff0e9/library_capsule.jpg"
+  },
+  {
+    "appid": "3050900",
+    "name": "ROMEO IS A DEAD MAN",
+    "total_reviews": 1798,
+    "total_positive": 1601,
+    "ratio": 0.8904338153503893,
+    "weighted_score": 1601.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3050900/39f052bf2a01254908330a1dfa5c0a6679b96d96/library_600x900.jpg"
+  },
+  {
+    "appid": "2499860",
+    "name": "DRAGON QUEST VII Reimagined",
+    "total_reviews": 1743,
+    "total_positive": 1538,
+    "ratio": 0.8823866896156053,
+    "weighted_score": 1538.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2499860/25b5d963c95e7a64e12d57f10b1d6b1a8b0ffb42/library_600x900.jpg"
   },
   {
     "appid": "1996390",
@@ -52,32 +79,5 @@
     "ratio": 0.9037037037037037,
     "weighted_score": 610.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3172700/bd26d7dbffe78f9c8c9cbb6b8d3c36095bc46734/library_600x900.jpg"
-  },
-  {
-    "appid": "2393920",
-    "name": "Angeline Era",
-    "total_reviews": 567,
-    "total_positive": 548,
-    "ratio": 0.9664902998236331,
-    "weighted_score": 548.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2393920/9cb8948c0a35a2f2b4bc55ad2d8b54baad523a70/library_600x900.jpg"
-  },
-  {
-    "appid": "3316940",
-    "name": "The Legend of Heroes: Trails beyond the Horizon",
-    "total_reviews": 543,
-    "total_positive": 508,
-    "ratio": 0.9355432780847146,
-    "weighted_score": 508.00000000000006,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3316940/2b557295293892e14ec977fea4651c2dd5c73799/library_600x900.jpg"
-  },
-  {
-    "appid": "2833580",
-    "name": "BRAVELY DEFAULT FLYING FAIRY HD Remaster",
-    "total_reviews": 536,
-    "total_positive": 502,
-    "ratio": 0.9365671641791045,
-    "weighted_score": 502.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2833580/308e876312908af42d1b20481b8b7df54995f775/library_capsule.jpg"
   }
 ]

@@ -6,7 +6,7 @@ import os
 from pathlib import Path
 
 # ============ CONFIGURATION ============
-TOP_N_GAMES = 3
+TOP_N_GAMES = 9
 INITIAL_POOL_SIZE = 100 # Bigger number = older games in the pool
 REQUEST_DELAY = 0.5  # Delay for review API
 STEAMCMD_DELAY = 0.5 # Delay for SteamCMD API to be respectful

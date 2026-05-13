@@ -2,82 +2,82 @@
   {
     "appid": "2057760",
     "name": "Esoteric Ebb",
-    "total_reviews": 5724,
-    "total_positive": 5490,
-    "ratio": 0.9591194968553459,
-    "weighted_score": 5490.0,
+    "total_reviews": 5738,
+    "total_positive": 5503,
+    "ratio": 0.9590449634018822,
+    "weighted_score": 5503.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2057760/94a88a5659c9eb593d15bee7078e91a160ac11f6/library_capsule.jpg"
   },
   {
     "appid": "1700270",
     "name": "Lucky Tower Ultimate",
-    "total_reviews": 1827,
-    "total_positive": 1718,
-    "ratio": 0.9403393541324576,
-    "weighted_score": 1718.0,
+    "total_reviews": 1829,
+    "total_positive": 1720,
+    "ratio": 0.9404045926735921,
+    "weighted_score": 1720.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1700270/library_600x900.jpg"
   },
   {
     "appid": "1996390",
     "name": "Escape from Ever After",
-    "total_reviews": 1310,
-    "total_positive": 1273,
-    "ratio": 0.9717557251908397,
-    "weighted_score": 1273.0,
+    "total_reviews": 1315,
+    "total_positive": 1278,
+    "ratio": 0.9718631178707224,
+    "weighted_score": 1278.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1996390/709ed11197ffe34b1c472ab09fe76c438e152b98/library_capsule.jpg"
-  },
-  {
-    "appid": "1984270",
-    "name": "Digimon Story Time Stranger",
-    "total_reviews": 14585,
-    "total_positive": 13129,
-    "ratio": 0.9001714089818307,
-    "weighted_score": 13129.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1984270/abcd3844124c51dc6247eb3b52afdd43fb2414c3/library_600x900.jpg"
-  },
-  {
-    "appid": "1904480",
-    "name": "Absolum",
-    "total_reviews": 8462,
-    "total_positive": 7804,
-    "ratio": 0.922240605057906,
-    "weighted_score": 7804.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1904480/ade63b00f9dd2b767dc1fd7c0df0cd17013c7eed/library_capsule.jpg"
   },
   {
     "appid": "2627260",
     "name": "NINJA GAIDEN 4",
-    "total_reviews": 7793,
-    "total_positive": 6885,
-    "ratio": 0.883485179006801,
-    "weighted_score": 6885.0,
+    "total_reviews": 7797,
+    "total_positive": 6888,
+    "ratio": 0.8834166987302808,
+    "weighted_score": 6888.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2627260/ee9b05a8120a3a4270461da133db1a10933346c9/library_600x900.jpg"
   },
   {
     "appid": "1663850",
     "name": "REPLACED",
-    "total_reviews": 5227,
-    "total_positive": 4317,
-    "ratio": 0.8259039602066195,
-    "weighted_score": 4317.0,
+    "total_reviews": 5278,
+    "total_positive": 4362,
+    "ratio": 0.8264494126563092,
+    "weighted_score": 4362.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1663850/library_600x900.jpg"
   },
   {
     "appid": "2536520",
     "name": "Diablo II: Resurrected – Infernal Edition",
-    "total_reviews": 4604,
-    "total_positive": 4039,
-    "ratio": 0.8772806255430061,
-    "weighted_score": 4039.0,
+    "total_reviews": 4611,
+    "total_positive": 4045,
+    "ratio": 0.8772500542181739,
+    "weighted_score": 4045.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/e36657ec80e83a1265b0cb3073e3cb6246443314/library_capsule.jpg"
   },
   {
     "appid": "2852190",
     "name": "Monster Hunter Stories 3: Twisted Reflection",
-    "total_reviews": 4797,
-    "total_positive": 3893,
-    "ratio": 0.8115488847196164,
-    "weighted_score": 3893.0,
+    "total_reviews": 4804,
+    "total_positive": 3899,
+    "ratio": 0.8116153205661948,
+    "weighted_score": 3898.9999999999995,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2852190/a7879e082b00ccb27a0ef4ef4dbe10d755aefe96/library_capsule.jpg"
+  },
+  {
+    "appid": "2624870",
+    "name": "Life is Strange: Reunion",
+    "total_reviews": 3664,
+    "total_positive": 3320,
+    "ratio": 0.9061135371179039,
+    "weighted_score": 3320.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2624870/30bf25dcab56c81a003570c80c0dcfd286eff0e9/library_capsule.jpg"
+  },
+  {
+    "appid": "2830030",
+    "name": "MOTORSLICE",
+    "total_reviews": 2214,
+    "total_positive": 1960,
+    "ratio": 0.8852755194218609,
+    "weighted_score": 1960.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2830030/library_600x900.jpg"
   }
 ]

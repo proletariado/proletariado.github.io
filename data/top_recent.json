@@ -1,14 +1,5 @@
 [
   {
-    "appid": "3375780",
-    "name": "Trails in the Sky 1st Chapter",
-    "total_reviews": 3673,
-    "total_positive": 3524,
-    "ratio": 0.9594337054179145,
-    "weighted_score": 3524.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3375780/5130e0696adf7d4e6183716f403f670af5112d4c/library_600x900.jpg"
-  },
-  {
     "appid": "3265060",
     "name": "Touhou Dystopian",
     "total_reviews": 1987,
@@ -27,57 +18,66 @@
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1700270/library_600x900.jpg"
   },
   {
-    "appid": "1984270",
-    "name": "Digimon Story Time Stranger",
-    "total_reviews": 14679,
-    "total_positive": 13210,
-    "ratio": 0.8999250630151918,
-    "weighted_score": 13210.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1984270/abcd3844124c51dc6247eb3b52afdd43fb2414c3/library_600x900.jpg"
-  },
-  {
-    "appid": "1904480",
-    "name": "Absolum",
-    "total_reviews": 8538,
-    "total_positive": 7873,
-    "ratio": 0.9221129070039822,
-    "weighted_score": 7873.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1904480/ade63b00f9dd2b767dc1fd7c0df0cd17013c7eed/library_capsule.jpg"
+    "appid": "1996390",
+    "name": "Escape from Ever After",
+    "total_reviews": 1330,
+    "total_positive": 1291,
+    "ratio": 0.9706766917293234,
+    "weighted_score": 1291.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1996390/709ed11197ffe34b1c472ab09fe76c438e152b98/library_capsule.jpg"
   },
   {
     "appid": "2627260",
     "name": "NINJA GAIDEN 4",
-    "total_reviews": 7835,
-    "total_positive": 6925,
-    "ratio": 0.8838544990427568,
-    "weighted_score": 6925.0,
+    "total_reviews": 7842,
+    "total_positive": 6931,
+    "ratio": 0.8838306554450396,
+    "weighted_score": 6931.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2627260/ee9b05a8120a3a4270461da133db1a10933346c9/library_600x900.jpg"
   },
   {
     "appid": "1663850",
     "name": "REPLACED",
-    "total_reviews": 5763,
-    "total_positive": 4772,
-    "ratio": 0.8280409508936318,
-    "weighted_score": 4772.0,
+    "total_reviews": 5830,
+    "total_positive": 4831,
+    "ratio": 0.8286449399656947,
+    "weighted_score": 4831.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1663850/library_600x900.jpg"
   },
   {
     "appid": "2536520",
     "name": "Diablo II: Resurrected – Infernal Edition",
-    "total_reviews": 4651,
-    "total_positive": 4079,
-    "ratio": 0.8770156955493442,
-    "weighted_score": 4079.0,
+    "total_reviews": 4663,
+    "total_positive": 4089,
+    "ratio": 0.8769032811494746,
+    "weighted_score": 4089.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/e36657ec80e83a1265b0cb3073e3cb6246443314/library_capsule.jpg"
   },
   {
     "appid": "2852190",
     "name": "Monster Hunter Stories 3: Twisted Reflection",
-    "total_reviews": 4851,
-    "total_positive": 3945,
-    "ratio": 0.8132343846629561,
-    "weighted_score": 3945.0,
+    "total_reviews": 4856,
+    "total_positive": 3949,
+    "ratio": 0.8132207578253706,
+    "weighted_score": 3948.9999999999995,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2852190/a7879e082b00ccb27a0ef4ef4dbe10d755aefe96/library_capsule.jpg"
+  },
+  {
+    "appid": "2624870",
+    "name": "Life is Strange: Reunion",
+    "total_reviews": 3735,
+    "total_positive": 3382,
+    "ratio": 0.9054886211512717,
+    "weighted_score": 3382.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2624870/30bf25dcab56c81a003570c80c0dcfd286eff0e9/library_capsule.jpg"
+  },
+  {
+    "appid": "2830030",
+    "name": "MOTORSLICE",
+    "total_reviews": 3332,
+    "total_positive": 2914,
+    "ratio": 0.8745498199279712,
+    "weighted_score": 2914.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2830030/library_600x900.jpg"
   }
 ]

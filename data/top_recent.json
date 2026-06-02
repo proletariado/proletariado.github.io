@@ -2,19 +2,19 @@
   {
     "appid": "1700270",
     "name": "Lucky Tower Ultimate",
-    "total_reviews": 1906,
-    "total_positive": 1794,
-    "ratio": 0.9412381951731374,
-    "weighted_score": 1794.0,
+    "total_reviews": 1908,
+    "total_positive": 1797,
+    "ratio": 0.9418238993710691,
+    "weighted_score": 1797.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1700270/library_600x900.jpg"
   },
   {
     "appid": "1996390",
     "name": "Escape from Ever After",
-    "total_reviews": 1343,
-    "total_positive": 1304,
-    "ratio": 0.9709605361131795,
-    "weighted_score": 1304.0,
+    "total_reviews": 1345,
+    "total_positive": 1306,
+    "ratio": 0.971003717472119,
+    "weighted_score": 1306.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1996390/709ed11197ffe34b1c472ab09fe76c438e152b98/library_capsule.jpg"
   },
   {
@@ -29,55 +29,55 @@
   {
     "appid": "3768760",
     "name": "007 First Light",
-    "total_reviews": 13804,
-    "total_positive": 12705,
-    "ratio": 0.9203853955375254,
-    "weighted_score": 12705.0,
+    "total_reviews": 15217,
+    "total_positive": 14014,
+    "ratio": 0.9209436814089506,
+    "weighted_score": 14014.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768760/1159a696d257cbeb3f4479be3466cfba2ae938a0/library_600x900.jpg"
+  },
+  {
+    "appid": "1984270",
+    "name": "Digimon Story Time Stranger",
+    "total_reviews": 14782,
+    "total_positive": 13303,
+    "ratio": 0.8999458801244757,
+    "weighted_score": 13303.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1984270/abcd3844124c51dc6247eb3b52afdd43fb2414c3/library_600x900.jpg"
+  },
+  {
+    "appid": "1904480",
+    "name": "Absolum",
+    "total_reviews": 8637,
+    "total_positive": 7961,
+    "ratio": 0.9217320828991548,
+    "weighted_score": 7961.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1904480/ade63b00f9dd2b767dc1fd7c0df0cd17013c7eed/library_capsule.jpg"
+  },
+  {
+    "appid": "2627260",
+    "name": "NINJA GAIDEN 4",
+    "total_reviews": 7890,
+    "total_positive": 6972,
+    "ratio": 0.8836501901140684,
+    "weighted_score": 6972.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2627260/ee9b05a8120a3a4270461da133db1a10933346c9/library_600x900.jpg"
   },
   {
     "appid": "1663850",
     "name": "REPLACED",
-    "total_reviews": 6500,
-    "total_positive": 5396,
-    "ratio": 0.8301538461538461,
-    "weighted_score": 5396.0,
+    "total_reviews": 6544,
+    "total_positive": 5432,
+    "ratio": 0.8300733496332519,
+    "weighted_score": 5432.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1663850/library_600x900.jpg"
   },
   {
     "appid": "2536520",
     "name": "Diablo II: Resurrected – Infernal Edition",
-    "total_reviews": 4946,
-    "total_positive": 4298,
-    "ratio": 0.8689850384148807,
-    "weighted_score": 4298.0,
+    "total_reviews": 4957,
+    "total_positive": 4308,
+    "ratio": 0.8690740367157554,
+    "weighted_score": 4308.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/e36657ec80e83a1265b0cb3073e3cb6246443314/library_capsule.jpg"
-  },
-  {
-    "appid": "2852190",
-    "name": "Monster Hunter Stories 3: Twisted Reflection",
-    "total_reviews": 4911,
-    "total_positive": 4000,
-    "ratio": 0.8144980655670943,
-    "weighted_score": 4000.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2852190/a7879e082b00ccb27a0ef4ef4dbe10d755aefe96/library_capsule.jpg"
-  },
-  {
-    "appid": "2597080",
-    "name": "Realm of Ink",
-    "total_reviews": 4078,
-    "total_positive": 3732,
-    "ratio": 0.9151544874938695,
-    "weighted_score": 3732.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2597080/library_600x900.jpg"
-  },
-  {
-    "appid": "2624870",
-    "name": "Life is Strange: Reunion",
-    "total_reviews": 3810,
-    "total_positive": 3447,
-    "ratio": 0.9047244094488189,
-    "weighted_score": 3447.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2624870/30bf25dcab56c81a003570c80c0dcfd286eff0e9/library_capsule.jpg"
   }
 ]

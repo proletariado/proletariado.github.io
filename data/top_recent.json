@@ -2,10 +2,10 @@
   {
     "appid": "1700270",
     "name": "Lucky Tower Ultimate",
-    "total_reviews": 1908,
-    "total_positive": 1797,
-    "ratio": 0.9418238993710691,
-    "weighted_score": 1797.0,
+    "total_reviews": 1913,
+    "total_positive": 1803,
+    "ratio": 0.9424986931521171,
+    "weighted_score": 1803.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1700270/library_600x900.jpg"
   },
   {
@@ -20,64 +20,64 @@
   {
     "appid": "2416100",
     "name": "Goodnight Universe",
-    "total_reviews": 1204,
-    "total_positive": 1168,
-    "ratio": 0.9700996677740864,
-    "weighted_score": 1168.0,
+    "total_reviews": 1205,
+    "total_positive": 1169,
+    "ratio": 0.9701244813278008,
+    "weighted_score": 1169.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2416100/library_600x900.jpg"
   },
   {
     "appid": "3768760",
     "name": "007 First Light",
-    "total_reviews": 15217,
-    "total_positive": 14014,
-    "ratio": 0.9209436814089506,
-    "weighted_score": 14014.0,
+    "total_reviews": 16456,
+    "total_positive": 15176,
+    "ratio": 0.9222168206125425,
+    "weighted_score": 15176.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768760/1159a696d257cbeb3f4479be3466cfba2ae938a0/library_600x900.jpg"
   },
   {
     "appid": "1984270",
     "name": "Digimon Story Time Stranger",
-    "total_reviews": 14782,
-    "total_positive": 13303,
-    "ratio": 0.8999458801244757,
-    "weighted_score": 13303.0,
+    "total_reviews": 14787,
+    "total_positive": 13308,
+    "ratio": 0.8999797119091093,
+    "weighted_score": 13308.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1984270/abcd3844124c51dc6247eb3b52afdd43fb2414c3/library_600x900.jpg"
   },
   {
     "appid": "1904480",
     "name": "Absolum",
-    "total_reviews": 8637,
-    "total_positive": 7961,
-    "ratio": 0.9217320828991548,
-    "weighted_score": 7961.0,
+    "total_reviews": 8643,
+    "total_positive": 7968,
+    "ratio": 0.9219021173203749,
+    "weighted_score": 7968.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1904480/ade63b00f9dd2b767dc1fd7c0df0cd17013c7eed/library_capsule.jpg"
   },
   {
     "appid": "2627260",
     "name": "NINJA GAIDEN 4",
-    "total_reviews": 7890,
-    "total_positive": 6972,
-    "ratio": 0.8836501901140684,
-    "weighted_score": 6972.0,
+    "total_reviews": 7896,
+    "total_positive": 6977,
+    "ratio": 0.8836119554204661,
+    "weighted_score": 6977.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2627260/ee9b05a8120a3a4270461da133db1a10933346c9/library_600x900.jpg"
   },
   {
     "appid": "1663850",
     "name": "REPLACED",
-    "total_reviews": 6544,
-    "total_positive": 5432,
-    "ratio": 0.8300733496332519,
-    "weighted_score": 5432.0,
+    "total_reviews": 6568,
+    "total_positive": 5452,
+    "ratio": 0.8300852618757613,
+    "weighted_score": 5452.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1663850/library_600x900.jpg"
   },
   {
     "appid": "2536520",
     "name": "Diablo II: Resurrected – Infernal Edition",
-    "total_reviews": 4957,
-    "total_positive": 4308,
-    "ratio": 0.8690740367157554,
-    "weighted_score": 4308.0,
+    "total_reviews": 4970,
+    "total_positive": 4320,
+    "ratio": 0.869215291750503,
+    "weighted_score": 4320.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/e36657ec80e83a1265b0cb3073e3cb6246443314/library_capsule.jpg"
   }
 ]

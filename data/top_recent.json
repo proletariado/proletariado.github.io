@@ -1,74 +1,65 @@
 [
   {
+    "appid": "3265060",
+    "name": "Touhou Dystopian",
+    "total_reviews": 2004,
+    "total_positive": 1961,
+    "ratio": 0.9785429141716567,
+    "weighted_score": 1961.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3265060/c51b09e97105809bc85b9245117b5710beaead5f/library_capsule.jpg"
+  },
+  {
     "appid": "1700270",
     "name": "Lucky Tower Ultimate",
-    "total_reviews": 1913,
-    "total_positive": 1803,
-    "ratio": 0.9424986931521171,
-    "weighted_score": 1803.0,
+    "total_reviews": 1911,
+    "total_positive": 1802,
+    "ratio": 0.9429618001046572,
+    "weighted_score": 1802.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1700270/library_600x900.jpg"
   },
   {
     "appid": "1996390",
     "name": "Escape from Ever After",
-    "total_reviews": 1346,
-    "total_positive": 1307,
-    "ratio": 0.9710252600297177,
-    "weighted_score": 1307.0,
+    "total_reviews": 1347,
+    "total_positive": 1308,
+    "ratio": 0.9710467706013363,
+    "weighted_score": 1308.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1996390/709ed11197ffe34b1c472ab09fe76c438e152b98/library_capsule.jpg"
-  },
-  {
-    "appid": "2416100",
-    "name": "Goodnight Universe",
-    "total_reviews": 1205,
-    "total_positive": 1169,
-    "ratio": 0.9701244813278008,
-    "weighted_score": 1169.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2416100/library_600x900.jpg"
   },
   {
     "appid": "3768760",
     "name": "007 First Light",
-    "total_reviews": 17468,
-    "total_positive": 16100,
-    "ratio": 0.9216853675291963,
-    "weighted_score": 16100.0,
+    "total_reviews": 18431,
+    "total_positive": 16970,
+    "ratio": 0.9207313764852694,
+    "weighted_score": 16970.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768760/1159a696d257cbeb3f4479be3466cfba2ae938a0/library_600x900.jpg"
-  },
-  {
-    "appid": "1904480",
-    "name": "Absolum",
-    "total_reviews": 8647,
-    "total_positive": 7972,
-    "ratio": 0.9219382444778536,
-    "weighted_score": 7972.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1904480/ade63b00f9dd2b767dc1fd7c0df0cd17013c7eed/library_capsule.jpg"
   },
   {
     "appid": "2627260",
     "name": "NINJA GAIDEN 4",
-    "total_reviews": 7895,
-    "total_positive": 6977,
-    "ratio": 0.8837238758708043,
-    "weighted_score": 6977.0,
+    "total_reviews": 7902,
+    "total_positive": 6982,
+    "ratio": 0.8835737787901797,
+    "weighted_score": 6982.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2627260/ee9b05a8120a3a4270461da133db1a10933346c9/library_600x900.jpg"
   },
   {
     "appid": "1663850",
     "name": "REPLACED",
-    "total_reviews": 6594,
-    "total_positive": 5474,
-    "ratio": 0.8301486199575372,
-    "weighted_score": 5474.0,
+    "total_reviews": 6641,
+    "total_positive": 5517,
+    "ratio": 0.8307483812678813,
+    "weighted_score": 5517.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1663850/library_600x900.jpg"
   },
   {
     "appid": "2536520",
     "name": "Diablo II: Resurrected – Infernal Edition",
-    "total_reviews": 4977,
-    "total_positive": 4328,
-    "ratio": 0.8696001607394013,
-    "weighted_score": 4328.0,
+    "total_reviews": 4980,
+    "total_positive": 4330,
+    "ratio": 0.8694779116465864,
+    "weighted_score": 4330.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/e36657ec80e83a1265b0cb3073e3cb6246443314/library_capsule.jpg"
   },
   {
@@ -79,5 +70,14 @@
     "ratio": 0.8149726110772977,
     "weighted_score": 4017.0000000000005,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2852190/a7879e082b00ccb27a0ef4ef4dbe10d755aefe96/library_capsule.jpg"
+  },
+  {
+    "appid": "2597080",
+    "name": "Realm of Ink",
+    "total_reviews": 4271,
+    "total_positive": 3898,
+    "ratio": 0.9126668227581363,
+    "weighted_score": 3898.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2597080/library_600x900.jpg"
   }
 ]

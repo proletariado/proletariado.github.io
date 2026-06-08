@@ -2,82 +2,82 @@
   {
     "appid": "1700270",
     "name": "Lucky Tower Ultimate",
-    "total_reviews": 1917,
-    "total_positive": 1809,
-    "ratio": 0.9436619718309859,
-    "weighted_score": 1809.0,
+    "total_reviews": 1922,
+    "total_positive": 1814,
+    "ratio": 0.9438085327783559,
+    "weighted_score": 1814.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1700270/library_600x900.jpg"
   },
   {
     "appid": "1996390",
     "name": "Escape from Ever After",
-    "total_reviews": 1350,
-    "total_positive": 1311,
-    "ratio": 0.9711111111111111,
-    "weighted_score": 1311.0,
+    "total_reviews": 1352,
+    "total_positive": 1313,
+    "ratio": 0.9711538461538461,
+    "weighted_score": 1313.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1996390/709ed11197ffe34b1c472ab09fe76c438e152b98/library_capsule.jpg"
   },
   {
     "appid": "2416100",
     "name": "Goodnight Universe",
-    "total_reviews": 1208,
-    "total_positive": 1172,
-    "ratio": 0.9701986754966887,
-    "weighted_score": 1172.0,
+    "total_reviews": 1209,
+    "total_positive": 1173,
+    "ratio": 0.9702233250620348,
+    "weighted_score": 1173.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2416100/library_600x900.jpg"
   },
   {
     "appid": "3768760",
     "name": "007 First Light",
-    "total_reviews": 20087,
-    "total_positive": 18444,
-    "ratio": 0.9182058047493403,
-    "weighted_score": 18444.0,
+    "total_reviews": 20967,
+    "total_positive": 19246,
+    "ratio": 0.9179186340439739,
+    "weighted_score": 19246.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768760/1159a696d257cbeb3f4479be3466cfba2ae938a0/library_600x900.jpg"
+  },
+  {
+    "appid": "1984270",
+    "name": "Digimon Story Time Stranger",
+    "total_reviews": 14838,
+    "total_positive": 13350,
+    "ratio": 0.8997169429842297,
+    "weighted_score": 13350.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1984270/abcd3844124c51dc6247eb3b52afdd43fb2414c3/library_600x900.jpg"
+  },
+  {
+    "appid": "1904480",
+    "name": "Absolum",
+    "total_reviews": 8680,
+    "total_positive": 8000,
+    "ratio": 0.9216589861751152,
+    "weighted_score": 8000.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1904480/ade63b00f9dd2b767dc1fd7c0df0cd17013c7eed/library_capsule.jpg"
+  },
+  {
+    "appid": "2627260",
+    "name": "NINJA GAIDEN 4",
+    "total_reviews": 7922,
+    "total_positive": 6997,
+    "ratio": 0.8832365564251452,
+    "weighted_score": 6997.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2627260/ee9b05a8120a3a4270461da133db1a10933346c9/library_600x900.jpg"
   },
   {
     "appid": "1663850",
     "name": "REPLACED",
-    "total_reviews": 6717,
-    "total_positive": 5582,
-    "ratio": 0.8310257555456305,
-    "weighted_score": 5582.0,
+    "total_reviews": 6771,
+    "total_positive": 5631,
+    "ratio": 0.8316349136021267,
+    "weighted_score": 5631.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1663850/library_600x900.jpg"
   },
   {
     "appid": "2536520",
     "name": "Diablo II: Resurrected – Infernal Edition",
-    "total_reviews": 5006,
-    "total_positive": 4353,
-    "ratio": 0.8695565321614063,
-    "weighted_score": 4353.0,
+    "total_reviews": 5012,
+    "total_positive": 4359,
+    "ratio": 0.8697126895450917,
+    "weighted_score": 4359.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/e36657ec80e83a1265b0cb3073e3cb6246443314/library_capsule.jpg"
-  },
-  {
-    "appid": "2852190",
-    "name": "Monster Hunter Stories 3: Twisted Reflection",
-    "total_reviews": 4936,
-    "total_positive": 4023,
-    "ratio": 0.815032414910859,
-    "weighted_score": 4023.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2852190/a7879e082b00ccb27a0ef4ef4dbe10d755aefe96/library_capsule.jpg"
-  },
-  {
-    "appid": "2597080",
-    "name": "Realm of Ink",
-    "total_reviews": 4366,
-    "total_positive": 3978,
-    "ratio": 0.9111314704535044,
-    "weighted_score": 3978.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2597080/library_600x900.jpg"
-  },
-  {
-    "appid": "2830030",
-    "name": "MOTORSLICE",
-    "total_reviews": 4129,
-    "total_positive": 3576,
-    "ratio": 0.8660692661661419,
-    "weighted_score": 3576.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2830030/library_600x900.jpg"
   }
 ]

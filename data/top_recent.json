@@ -1,83 +1,83 @@
 [
   {
-    "appid": "3375780",
-    "name": "Trails in the Sky 1st Chapter",
-    "total_reviews": 3840,
-    "total_positive": 3683,
-    "ratio": 0.9591145833333333,
-    "weighted_score": 3683.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3375780/5130e0696adf7d4e6183716f403f670af5112d4c/library_600x900.jpg"
-  },
-  {
-    "appid": "3265060",
-    "name": "Touhou Dystopian",
-    "total_reviews": 2065,
-    "total_positive": 2019,
-    "ratio": 0.97772397094431,
-    "weighted_score": 2019.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3265060/c51b09e97105809bc85b9245117b5710beaead5f/library_capsule.jpg"
-  },
-  {
     "appid": "1700270",
     "name": "Lucky Tower Ultimate",
-    "total_reviews": 1982,
-    "total_positive": 1872,
-    "ratio": 0.9445005045408678,
-    "weighted_score": 1872.0,
+    "total_reviews": 1984,
+    "total_positive": 1874,
+    "ratio": 0.9445564516129032,
+    "weighted_score": 1874.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1700270/library_600x900.jpg"
+  },
+  {
+    "appid": "1996390",
+    "name": "Escape from Ever After",
+    "total_reviews": 1377,
+    "total_positive": 1335,
+    "ratio": 0.9694989106753813,
+    "weighted_score": 1335.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1996390/709ed11197ffe34b1c472ab09fe76c438e152b98/library_capsule.jpg"
+  },
+  {
+    "appid": "1589570",
+    "name": "Dunjungle",
+    "total_reviews": 682,
+    "total_positive": 660,
+    "ratio": 0.967741935483871,
+    "weighted_score": 660.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1589570/44ae2fd2646edfdb68857d8cbcd0e12176601b43/library_600x900.jpg"
   },
   {
     "appid": "3768760",
     "name": "007 First Light",
-    "total_reviews": 26479,
-    "total_positive": 24219,
-    "ratio": 0.914649344763775,
-    "weighted_score": 24219.0,
+    "total_reviews": 26623,
+    "total_positive": 24350,
+    "ratio": 0.9146226946625099,
+    "weighted_score": 24350.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768760/1159a696d257cbeb3f4479be3466cfba2ae938a0/library_600x900.jpg"
-  },
-  {
-    "appid": "1984270",
-    "name": "Digimon Story Time Stranger",
-    "total_reviews": 14994,
-    "total_positive": 13477,
-    "ratio": 0.8988261971455249,
-    "weighted_score": 13477.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1984270/abcd3844124c51dc6247eb3b52afdd43fb2414c3/library_600x900.jpg"
-  },
-  {
-    "appid": "1904480",
-    "name": "Absolum",
-    "total_reviews": 8758,
-    "total_positive": 8060,
-    "ratio": 0.9203014386846312,
-    "weighted_score": 8060.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1904480/ade63b00f9dd2b767dc1fd7c0df0cd17013c7eed/library_capsule.jpg"
   },
   {
     "appid": "2445690",
     "name": "Lost Castle 2",
-    "total_reviews": 9598,
-    "total_positive": 7551,
-    "ratio": 0.7867264013336112,
-    "weighted_score": 7551.0,
+    "total_reviews": 9637,
+    "total_positive": 7578,
+    "ratio": 0.7863442980180554,
+    "weighted_score": 7578.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2445690/3939e479ddb172c9ffc25a296eb8036cf6db9275/library_capsule.jpg"
   },
   {
     "appid": "1663850",
     "name": "REPLACED",
-    "total_reviews": 7203,
-    "total_positive": 5995,
-    "ratio": 0.8322921005136749,
-    "weighted_score": 5995.0,
+    "total_reviews": 7213,
+    "total_positive": 6005,
+    "ratio": 0.8325246083460419,
+    "weighted_score": 6005.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1663850/library_600x900.jpg"
   },
   {
     "appid": "2536520",
     "name": "Diablo II: Resurrected – Infernal Edition",
-    "total_reviews": 5128,
-    "total_positive": 4459,
-    "ratio": 0.8695397815912637,
-    "weighted_score": 4459.0,
+    "total_reviews": 5140,
+    "total_positive": 4470,
+    "ratio": 0.8696498054474708,
+    "weighted_score": 4470.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/e36657ec80e83a1265b0cb3073e3cb6246443314/library_capsule.jpg"
+  },
+  {
+    "appid": "2597080",
+    "name": "Realm of Ink",
+    "total_reviews": 4639,
+    "total_positive": 4202,
+    "ratio": 0.9057986635050658,
+    "weighted_score": 4202.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2597080/library_600x900.jpg"
+  },
+  {
+    "appid": "2852190",
+    "name": "Monster Hunter Stories 3: Twisted Reflection",
+    "total_reviews": 5049,
+    "total_positive": 4093,
+    "ratio": 0.8106555753614577,
+    "weighted_score": 4093.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2852190/a7879e082b00ccb27a0ef4ef4dbe10d755aefe96/library_capsule.jpg"
   }
 ]

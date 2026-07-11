@@ -13,7 +13,7 @@ INITIAL_POOL_SIZE = 100 # Bigger number = older games in the pool
 REQUEST_DELAY = 0.5  # Delay for review API
 STEAMCMD_DELAY = 0.5 # Delay for SteamCMD API to be respectful
 APPDETAILS_DELAY = 0.5  # Delay for appdetails API
-MIN_REVIEWS = 8000  # Minimum total reviews to be considered
+MIN_REVIEWS = 900  # Minimum total reviews to be considered
 
 # Excluded genres and categories (by description)
 EXCLUDED_GENRES = ["Early Access"]

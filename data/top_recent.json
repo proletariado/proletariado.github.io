@@ -2,82 +2,82 @@
   {
     "appid": "3768760",
     "name": "007 First Light",
-    "total_reviews": 29005,
-    "total_positive": 26496,
-    "ratio": 0.9134976728150319,
-    "weighted_score": 26496.0,
+    "total_reviews": 29054,
+    "total_positive": 26536,
+    "ratio": 0.9133337922489159,
+    "weighted_score": 26536.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768760/1159a696d257cbeb3f4479be3466cfba2ae938a0/library_600x900.jpg"
-  },
-  {
-    "appid": "1984270",
-    "name": "Digimon Story Time Stranger",
-    "total_reviews": 15271,
-    "total_positive": 13708,
-    "ratio": 0.8976491388907079,
-    "weighted_score": 13708.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1984270/abcd3844124c51dc6247eb3b52afdd43fb2414c3/library_600x900.jpg"
-  },
-  {
-    "appid": "1904480",
-    "name": "Absolum",
-    "total_reviews": 8931,
-    "total_positive": 8220,
-    "ratio": 0.9203896540141082,
-    "weighted_score": 8220.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1904480/ade63b00f9dd2b767dc1fd7c0df0cd17013c7eed/library_capsule.jpg"
-  },
-  {
-    "appid": "3751950",
-    "name": "Assassin's Creed Black Flag Resynced",
-    "total_reviews": 13837,
-    "total_positive": 10629,
-    "ratio": 0.7681578376815784,
-    "weighted_score": 10629.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3751950/36a1644b03afce1a648ab90b232196609e827539/library_capsule.jpg"
-  },
-  {
-    "appid": "2445690",
-    "name": "Lost Castle 2",
-    "total_reviews": 10169,
-    "total_positive": 7981,
-    "ratio": 0.7848362670862425,
-    "weighted_score": 7981.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2445690/3939e479ddb172c9ffc25a296eb8036cf6db9275/library_capsule.jpg"
   },
   {
     "appid": "1663850",
     "name": "REPLACED",
-    "total_reviews": 7819,
-    "total_positive": 6558,
-    "ratio": 0.8387261798183911,
-    "weighted_score": 6558.0,
+    "total_reviews": 7848,
+    "total_positive": 6582,
+    "ratio": 0.8386850152905199,
+    "weighted_score": 6582.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1663850/library_600x900.jpg"
   },
   {
     "appid": "2536520",
     "name": "Diablo II: Resurrected – Infernal Edition",
-    "total_reviews": 5361,
-    "total_positive": 4647,
-    "ratio": 0.8668158925573587,
-    "weighted_score": 4647.0,
+    "total_reviews": 5378,
+    "total_positive": 4660,
+    "ratio": 0.8664931201190034,
+    "weighted_score": 4660.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/e36657ec80e83a1265b0cb3073e3cb6246443314/library_capsule.jpg"
+  },
+  {
+    "appid": "3751950",
+    "name": "Assassin's Creed Black Flag Resynced",
+    "total_reviews": 14676,
+    "total_positive": 11332,
+    "ratio": 0.7721449986372309,
+    "weighted_score": 11332.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3751950/36a1644b03afce1a648ab90b232196609e827539/library_capsule.jpg"
+  },
+  {
+    "appid": "2445690",
+    "name": "Lost Castle 2",
+    "total_reviews": 10177,
+    "total_positive": 7988,
+    "ratio": 0.7849071435590056,
+    "weighted_score": 7988.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2445690/3939e479ddb172c9ffc25a296eb8036cf6db9275/library_capsule.jpg"
+  },
+  {
+    "appid": "2597080",
+    "name": "Realm of Ink",
+    "total_reviews": 4825,
+    "total_positive": 4360,
+    "ratio": 0.9036269430051813,
+    "weighted_score": 4360.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2597080/library_600x900.jpg"
   },
   {
     "appid": "2830030",
     "name": "MOTORSLICE",
-    "total_reviews": 4877,
-    "total_positive": 4182,
-    "ratio": 0.8574943612876769,
-    "weighted_score": 4182.0,
+    "total_reviews": 4890,
+    "total_positive": 4193,
+    "ratio": 0.8574642126789366,
+    "weighted_score": 4193.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2830030/library_600x900.jpg"
   },
   {
     "appid": "2852190",
     "name": "Monster Hunter Stories 3: Twisted Reflection",
-    "total_reviews": 5341,
-    "total_positive": 4144,
-    "ratio": 0.7758846657929227,
-    "weighted_score": 4144.0,
+    "total_reviews": 5345,
+    "total_positive": 4147,
+    "ratio": 0.775865294667914,
+    "weighted_score": 4147.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2852190/a7879e082b00ccb27a0ef4ef4dbe10d755aefe96/library_capsule.jpg"
+  },
+  {
+    "appid": "2624870",
+    "name": "Life is Strange: Reunion",
+    "total_reviews": 4164,
+    "total_positive": 3741,
+    "ratio": 0.8984149855907781,
+    "weighted_score": 3741.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2624870/30bf25dcab56c81a003570c80c0dcfd286eff0e9/library_capsule.jpg"
   }
 ]

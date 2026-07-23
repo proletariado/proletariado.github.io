@@ -2,82 +2,82 @@
   {
     "appid": "3768760",
     "name": "007 First Light",
-    "total_reviews": 29451,
-    "total_positive": 26885,
-    "ratio": 0.9128722284472514,
-    "weighted_score": 26885.0,
+    "total_reviews": 29507,
+    "total_positive": 26937,
+    "ratio": 0.9129020232487206,
+    "weighted_score": 26937.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768760/1159a696d257cbeb3f4479be3466cfba2ae938a0/library_600x900.jpg"
-  },
-  {
-    "appid": "1984270",
-    "name": "Digimon Story Time Stranger",
-    "total_reviews": 15371,
-    "total_positive": 13794,
-    "ratio": 0.8974042027194067,
-    "weighted_score": 13794.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1984270/abcd3844124c51dc6247eb3b52afdd43fb2414c3/library_600x900.jpg"
   },
   {
     "appid": "1904480",
     "name": "Absolum",
-    "total_reviews": 8973,
-    "total_positive": 8254,
-    "ratio": 0.919870723280954,
-    "weighted_score": 8254.0,
+    "total_reviews": 8979,
+    "total_positive": 8260,
+    "ratio": 0.919924267735828,
+    "weighted_score": 8260.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1904480/ade63b00f9dd2b767dc1fd7c0df0cd17013c7eed/library_capsule.jpg"
+  },
+  {
+    "appid": "2627260",
+    "name": "NINJA GAIDEN 4",
+    "total_reviews": 8220,
+    "total_positive": 7238,
+    "ratio": 0.8805352798053528,
+    "weighted_score": 7238.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2627260/ee9b05a8120a3a4270461da133db1a10933346c9/library_600x900.jpg"
   },
   {
     "appid": "3751950",
     "name": "Assassin's Creed Black Flag Resynced",
-    "total_reviews": 18739,
-    "total_positive": 14843,
-    "ratio": 0.7920913602646886,
-    "weighted_score": 14843.0,
+    "total_reviews": 19191,
+    "total_positive": 15242,
+    "ratio": 0.7942264603199416,
+    "weighted_score": 15242.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3751950/36a1644b03afce1a648ab90b232196609e827539/library_capsule.jpg"
   },
   {
     "appid": "2445690",
     "name": "Lost Castle 2",
-    "total_reviews": 10255,
-    "total_positive": 8046,
-    "ratio": 0.7845928815212092,
-    "weighted_score": 8046.0,
+    "total_reviews": 10270,
+    "total_positive": 8057,
+    "ratio": 0.7845180136319376,
+    "weighted_score": 8056.999999999999,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2445690/3939e479ddb172c9ffc25a296eb8036cf6db9275/library_capsule.jpg"
-  },
-  {
-    "appid": "2627260",
-    "name": "NINJA GAIDEN 4",
-    "total_reviews": 8217,
-    "total_positive": 7236,
-    "ratio": 0.8806133625410734,
-    "weighted_score": 7236.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2627260/ee9b05a8120a3a4270461da133db1a10933346c9/library_600x900.jpg"
   },
   {
     "appid": "1663850",
     "name": "REPLACED",
-    "total_reviews": 7969,
-    "total_positive": 6689,
-    "ratio": 0.8393775881540971,
-    "weighted_score": 6689.0,
+    "total_reviews": 7990,
+    "total_positive": 6708,
+    "ratio": 0.839549436795995,
+    "weighted_score": 6708.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1663850/library_600x900.jpg"
   },
   {
     "appid": "2536520",
     "name": "Diablo II: Resurrected – Infernal Edition",
-    "total_reviews": 5436,
-    "total_positive": 4713,
-    "ratio": 0.8669977924944813,
-    "weighted_score": 4713.0,
+    "total_reviews": 5440,
+    "total_positive": 4716,
+    "ratio": 0.8669117647058824,
+    "weighted_score": 4716.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/e36657ec80e83a1265b0cb3073e3cb6246443314/library_capsule.jpg"
   },
   {
     "appid": "2597080",
     "name": "Realm of Ink",
-    "total_reviews": 4862,
-    "total_positive": 4396,
-    "ratio": 0.9041546688605512,
-    "weighted_score": 4396.0,
+    "total_reviews": 4863,
+    "total_positive": 4398,
+    "ratio": 0.904380012338063,
+    "weighted_score": 4398.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2597080/library_600x900.jpg"
+  },
+  {
+    "appid": "2830030",
+    "name": "MOTORSLICE",
+    "total_reviews": 4973,
+    "total_positive": 4258,
+    "ratio": 0.8562236074803942,
+    "weighted_score": 4258.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2830030/library_600x900.jpg"
   }
 ]

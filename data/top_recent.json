@@ -2,82 +2,82 @@
   {
     "appid": "3768760",
     "name": "007 First Light",
-    "total_reviews": 30001,
-    "total_positive": 27373,
-    "ratio": 0.9124029199026699,
-    "weighted_score": 27373.0,
+    "total_reviews": 30059,
+    "total_positive": 27419,
+    "ratio": 0.9121727269702917,
+    "weighted_score": 27419.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768760/1159a696d257cbeb3f4479be3466cfba2ae938a0/library_600x900.jpg"
   },
   {
     "appid": "3751950",
     "name": "Assassin's Creed Black Flag Resynced",
-    "total_reviews": 21827,
-    "total_positive": 17546,
-    "ratio": 0.8038667705135841,
-    "weighted_score": 17546.0,
+    "total_reviews": 22041,
+    "total_positive": 17732,
+    "ratio": 0.8045007032348804,
+    "weighted_score": 17732.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3751950/36a1644b03afce1a648ab90b232196609e827539/library_capsule.jpg"
   },
   {
     "appid": "1663850",
     "name": "REPLACED",
-    "total_reviews": 8220,
-    "total_positive": 6913,
-    "ratio": 0.8409975669099756,
-    "weighted_score": 6913.0,
+    "total_reviews": 8245,
+    "total_positive": 6934,
+    "ratio": 0.8409945421467556,
+    "weighted_score": 6934.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1663850/library_600x900.jpg"
   },
   {
     "appid": "2445690",
     "name": "Lost Castle 2",
-    "total_reviews": 10362,
-    "total_positive": 8121,
-    "ratio": 0.7837290098436596,
-    "weighted_score": 8121.0,
+    "total_reviews": 10379,
+    "total_positive": 8134,
+    "ratio": 0.7836978514307736,
+    "weighted_score": 8134.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2445690/3939e479ddb172c9ffc25a296eb8036cf6db9275/library_capsule.jpg"
+  },
+  {
+    "appid": "2436940",
+    "name": "Sephiria",
+    "total_reviews": 5891,
+    "total_positive": 5528,
+    "ratio": 0.9383805805465965,
+    "weighted_score": 5528.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2436940/39159a42dadad75a754ba2321849b74c4e2c0b55/library_capsule.jpg"
   },
   {
     "appid": "4570720",
     "name": "DragonSword : Awakening",
-    "total_reviews": 5413,
-    "total_positive": 4904,
-    "ratio": 0.9059671162017365,
-    "weighted_score": 4904.0,
+    "total_reviews": 5784,
+    "total_positive": 5234,
+    "ratio": 0.9049100968188105,
+    "weighted_score": 5234.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4570720/e329632d57fa570d0771a9c64fec5bb4a61b6e6d/library_capsule.jpg"
   },
   {
     "appid": "2536520",
     "name": "Diablo II: Resurrected – Infernal Edition",
-    "total_reviews": 5493,
-    "total_positive": 4766,
-    "ratio": 0.8676497360276716,
-    "weighted_score": 4766.0,
+    "total_reviews": 5497,
+    "total_positive": 4769,
+    "ratio": 0.8675641258868474,
+    "weighted_score": 4769.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/e36657ec80e83a1265b0cb3073e3cb6246443314/library_capsule.jpg"
+  },
+  {
+    "appid": "2059170",
+    "name": "Quasimorph",
+    "total_reviews": 5634,
+    "total_positive": 4701,
+    "ratio": 0.8343982960596379,
+    "weighted_score": 4701.0,
+    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2059170/497600e16ef4afa2f3ef4a03015c85ad923832df/library_capsule.jpg"
   },
   {
     "appid": "2597080",
     "name": "Realm of Ink",
-    "total_reviews": 4897,
-    "total_positive": 4430,
-    "ratio": 0.9046354911170104,
-    "weighted_score": 4430.0,
+    "total_reviews": 4904,
+    "total_positive": 4437,
+    "ratio": 0.9047716150081566,
+    "weighted_score": 4437.0,
     "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2597080/library_600x900.jpg"
-  },
-  {
-    "appid": "2830030",
-    "name": "MOTORSLICE",
-    "total_reviews": 5048,
-    "total_positive": 4318,
-    "ratio": 0.8553882725832013,
-    "weighted_score": 4318.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2830030/library_600x900.jpg"
-  },
-  {
-    "appid": "2852190",
-    "name": "Monster Hunter Stories 3: Twisted Reflection",
-    "total_reviews": 5420,
-    "total_positive": 4199,
-    "ratio": 0.7747232472324723,
-    "weighted_score": 4199.0,
-    "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2852190/a7879e082b00ccb27a0ef4ef4dbe10d755aefe96/library_capsule.jpg"
   }
 ]

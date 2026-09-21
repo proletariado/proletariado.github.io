@@ -36,8 +36,8 @@ img {
 
 .icon {
     display: inline-block;
-    height: 0.8em;
-    transform: translateY(-0.2em);
+    height: 0.6em;
+    transform: translateY(-0.1em);
     vertical-align: middle;
 }
 

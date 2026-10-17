@@ -6,8 +6,19 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 CHANNELS = [
-    "UCxxxxxxxxxxxxxxxxxxxxxx",
-    # add more channel IDs here
+    "UClt01z1wHHT7c5lKcU8pxRQ",  # HBomb
+    "UCj74rJ9Lgl3WTngq675wxKg",  # Noodle
+    "UCMAJEIm9a_NGhD7BgWDMoXw",  # Jimmy McGee
+    "UCyNtlmLB73-7gtlBz00XOQQ",  # Folding Ideas
+    "UCSdma21fnJzgmPodhC9SJ3g",  # NakeyJakey
+    "UCBtWQTdJwOwC1YJPyCeugIg",  # Comedy Without Errors
+    "UCDJACu5LRKWE7sqagICB-ew",  # Spice8Rack
+    "UCJ6o36XL0CpYb6U5dNBiXHQ",  # Shaun
+    "UCCT8a7d6S6RJUivBgNRsiYg",  # Three Arrows
+    "UCo8186mZYAY49flt6HkbqlQ",  # Leon Massey
+    "UCeDKIj0G5XbultKOQnacu_w",  # Jose
+    "UCrr7y8rEXb7_RiVniwvzk9w",  # Thought Slime
+    "UC358urzyldvD78E9o2sR-Og",  # Leftist Cooks
 ]
 
 OUT = Path("data/youtube.json")

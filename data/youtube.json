@@ -1,5 +1,1810 @@
 {
-  "updated": "2026-10-17T01:34:07+00:00",
-  "channels": {},
-  "videos": []
+  "updated": "2026-10-17T09:35:24+00:00",
+  "channels": {
+    "UClt01z1wHHT7c5lKcU8pxRQ": {
+      "name": "hbomberguy",
+      "fetched_at": "2026-10-17T09:35:24+00:00",
+      "videos": [
+        {
+          "id": "yDp3cB5fHXQ",
+          "title": "Plagiarism and You(Tube)",
+          "published": "2023-12-03T01:21:53+00:00",
+          "url": "https://www.youtube.com/watch?v=yDp3cB5fHXQ",
+          "thumbnail": "https://i.ytimg.com/vi/yDp3cB5fHXQ/hqdefault.jpg"
+        },
+        {
+          "id": "0twDETh6QaI",
+          "title": "ROBLOX_OOF.mp3",
+          "published": "2022-11-17T20:55:18+00:00",
+          "url": "https://www.youtube.com/watch?v=0twDETh6QaI",
+          "thumbnail": "https://i.ytimg.com/vi/0twDETh6QaI/hqdefault.jpg"
+        },
+        {
+          "id": "bgJazjz9ZsA",
+          "title": "Deus Ex: Human Revolution is FINE, And Here's Why",
+          "published": "2022-03-05T21:34:01+00:00",
+          "url": "https://www.youtube.com/watch?v=bgJazjz9ZsA",
+          "thumbnail": "https://i.ytimg.com/vi/bgJazjz9ZsA/hqdefault.jpg"
+        },
+        {
+          "id": "8BIcAZxFfrc",
+          "title": "Vaccines and Autism: A Measured Response",
+          "published": "2021-05-26T17:35:11+00:00",
+          "url": "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+          "thumbnail": "https://i.ytimg.com/vi/8BIcAZxFfrc/hqdefault.jpg"
+        },
+        {
+          "id": "jbZo4x0NbbI",
+          "title": "The War on Christmas: A Measured Response",
+          "published": "2020-12-24T01:00:11+00:00",
+          "url": "https://www.youtube.com/watch?v=jbZo4x0NbbI",
+          "thumbnail": "https://i.ytimg.com/vi/jbZo4x0NbbI/hqdefault.jpg"
+        },
+        {
+          "id": "gzF7aHxk4Y4",
+          "title": "Fallout: New Vegas Is Genius, And Here's Why",
+          "published": "2020-12-20T02:14:05+00:00",
+          "url": "https://www.youtube.com/watch?v=gzF7aHxk4Y4",
+          "thumbnail": "https://i.ytimg.com/vi/gzF7aHxk4Y4/hqdefault.jpg"
+        },
+        {
+          "id": "81fdKWOHrdE",
+          "title": "RWBY Is Disappointing, And Here's Why",
+          "published": "2020-07-28T13:00:01+00:00",
+          "url": "https://www.youtube.com/watch?v=81fdKWOHrdE",
+          "thumbnail": "https://i.ytimg.com/vi/81fdKWOHrdE/hqdefault.jpg"
+        },
+        {
+          "id": "JsNm2YLrk30",
+          "title": "Pathologic is Genius, And Here's Why",
+          "published": "2019-11-21T23:00:15+00:00",
+          "url": "https://www.youtube.com/watch?v=JsNm2YLrk30",
+          "thumbnail": "https://i.ytimg.com/vi/JsNm2YLrk30/hqdefault.jpg"
+        },
+        {
+          "id": "D6OT77T7YlE",
+          "title": "Weighing the Value of Director's Cuts | Scanline",
+          "published": "2019-09-01T02:30:49+00:00",
+          "url": "https://www.youtube.com/watch?v=D6OT77T7YlE",
+          "thumbnail": "https://i.ytimg.com/vi/D6OT77T7YlE/hqdefault.jpg"
+        },
+        {
+          "id": "RLqXkYrdmjY",
+          "title": "Climate Denial: A Measured Response",
+          "published": "2019-05-31T18:56:59+00:00",
+          "url": "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+          "thumbnail": "https://i.ytimg.com/vi/RLqXkYrdmjY/hqdefault.jpg"
+        },
+        {
+          "id": "j7f26gVlDQI",
+          "title": "My Transformers Midlife Crisis",
+          "published": "2019-04-01T23:28:15+00:00",
+          "url": "https://www.youtube.com/watch?v=j7f26gVlDQI",
+          "thumbnail": "https://i.ytimg.com/vi/j7f26gVlDQI/hqdefault.jpg"
+        },
+        {
+          "id": "06yy88tLWlg",
+          "title": "WOKE BRANDS",
+          "published": "2019-02-22T20:01:34+00:00",
+          "url": "https://www.youtube.com/watch?v=06yy88tLWlg",
+          "thumbnail": "https://i.ytimg.com/vi/06yy88tLWlg/hqdefault.jpg"
+        },
+        {
+          "id": "_mvYUaZYtJk",
+          "title": "AOC Says Trans Rights",
+          "published": "2019-01-22T16:32:13+00:00",
+          "url": "https://www.youtube.com/watch?v=_mvYUaZYtJk",
+          "thumbnail": "https://i.ytimg.com/vi/_mvYUaZYtJk/hqdefault.jpg"
+        },
+        {
+          "id": "WIM-GKRS9Vk",
+          "title": "DONKEY KONG 64 CHARITY STREAM ON JANUARY 18TH",
+          "published": "2019-01-15T03:46:36+00:00",
+          "url": "https://www.youtube.com/watch?v=WIM-GKRS9Vk",
+          "thumbnail": "https://i.ytimg.com/vi/WIM-GKRS9Vk/hqdefault.jpg"
+        },
+        {
+          "id": "2gFsOoKAHZg",
+          "title": "Flat Earth: A Measured Response",
+          "published": "2018-12-31T22:57:42+00:00",
+          "url": "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+          "thumbnail": "https://i.ytimg.com/vi/2gFsOoKAHZg/hqdefault.jpg"
+        }
+      ]
+    },
+    "UCj74rJ9Lgl3WTngq675wxKg": {
+      "name": "Noodle",
+      "fetched_at": "2026-10-17T09:35:24+00:00",
+      "videos": [
+        {
+          "id": "oNjpDDftpKc",
+          "title": "why don't more games do this??",
+          "published": "2026-07-25T13:27:22+00:00",
+          "url": "https://www.youtube.com/watch?v=oNjpDDftpKc",
+          "thumbnail": "https://i.ytimg.com/vi/oNjpDDftpKc/hqdefault.jpg"
+        },
+        {
+          "id": "79HqrIz9jsc",
+          "title": "The Art Of Stealing People's Trust",
+          "published": "2026-04-05T16:30:06+00:00",
+          "url": "https://www.youtube.com/watch?v=79HqrIz9jsc",
+          "thumbnail": "https://i.ytimg.com/vi/79HqrIz9jsc/hqdefault.jpg"
+        },
+        {
+          "id": "b0MIbo2aQqs",
+          "title": "this game engine is from the 90s",
+          "published": "2026-02-16T16:38:34+00:00",
+          "url": "https://www.youtube.com/watch?v=b0MIbo2aQqs",
+          "thumbnail": "https://i.ytimg.com/vi/b0MIbo2aQqs/hqdefault.jpg"
+        },
+        {
+          "id": "3eMOpjOYVpQ",
+          "title": "Ship of Theseus type beat",
+          "published": "2025-12-13T21:46:53+00:00",
+          "url": "https://www.youtube.com/watch?v=3eMOpjOYVpQ",
+          "thumbnail": "https://i.ytimg.com/vi/3eMOpjOYVpQ/hqdefault.jpg"
+        },
+        {
+          "id": "bC-8y2R6IxI",
+          "title": "what did you do",
+          "published": "2025-12-05T14:41:08+00:00",
+          "url": "https://www.youtube.com/watch?v=bC-8y2R6IxI",
+          "thumbnail": "https://i.ytimg.com/vi/bC-8y2R6IxI/hqdefault.jpg"
+        },
+        {
+          "id": "lPU-kXEhSgk",
+          "title": "why did they change how the movie looks",
+          "published": "2025-09-13T15:01:24+00:00",
+          "url": "https://www.youtube.com/watch?v=lPU-kXEhSgk",
+          "thumbnail": "https://i.ytimg.com/vi/lPU-kXEhSgk/hqdefault.jpg"
+        },
+        {
+          "id": "vfagZakvZe8",
+          "title": "5 indie FPS games i think you should try (no pressure)",
+          "published": "2025-06-30T14:05:26+00:00",
+          "url": "https://www.youtube.com/watch?v=vfagZakvZe8",
+          "thumbnail": "https://i.ytimg.com/vi/vfagZakvZe8/hqdefault.jpg"
+        },
+        {
+          "id": "DX_zzdnMMYA",
+          "title": "The Art of Wasting Everyone's Time",
+          "published": "2025-05-30T18:37:00+00:00",
+          "url": "https://www.youtube.com/watch?v=DX_zzdnMMYA",
+          "thumbnail": "https://i.ytimg.com/vi/DX_zzdnMMYA/hqdefault.jpg"
+        },
+        {
+          "id": "R1qwz-jynO4",
+          "title": "the most BROKEN game I have EVER played",
+          "published": "2025-03-29T12:49:49+00:00",
+          "url": "https://www.youtube.com/watch?v=R1qwz-jynO4",
+          "thumbnail": "https://i.ytimg.com/vi/R1qwz-jynO4/hqdefault.jpg"
+        },
+        {
+          "id": "69Ukg2BqIk0",
+          "title": "how does an indie game get made?",
+          "published": "2024-12-21T22:05:55+00:00",
+          "url": "https://www.youtube.com/watch?v=69Ukg2BqIk0",
+          "thumbnail": "https://i.ytimg.com/vi/69Ukg2BqIk0/hqdefault.jpg"
+        },
+        {
+          "id": "EPohAvSfcxU",
+          "title": "How to (and how not to) talk about videogames online",
+          "published": "2024-10-11T20:40:18+00:00",
+          "url": "https://www.youtube.com/watch?v=EPohAvSfcxU",
+          "thumbnail": "https://i.ytimg.com/vi/EPohAvSfcxU/hqdefault.jpg"
+        },
+        {
+          "id": "-TRWLCgrN80",
+          "title": "The BEST Forgotten Racing Games",
+          "published": "2024-07-27T12:01:10+00:00",
+          "url": "https://www.youtube.com/watch?v=-TRWLCgrN80",
+          "thumbnail": "https://i.ytimg.com/vi/-TRWLCgrN80/hqdefault.jpg"
+        },
+        {
+          "id": "p9w-VTOvPjI",
+          "title": "SPONGEBOB and the weird 90s band that SHAPED it",
+          "published": "2024-05-02T12:00:53+00:00",
+          "url": "https://www.youtube.com/watch?v=p9w-VTOvPjI",
+          "thumbnail": "https://i.ytimg.com/vi/p9w-VTOvPjI/hqdefault.jpg"
+        },
+        {
+          "id": "CbOXVhZK-wE",
+          "title": "WHY is this game so good and WHY does nobody know about it",
+          "published": "2024-03-22T10:58:16+00:00",
+          "url": "https://www.youtube.com/watch?v=CbOXVhZK-wE",
+          "thumbnail": "https://i.ytimg.com/vi/CbOXVhZK-wE/hqdefault.jpg"
+        },
+        {
+          "id": "2f4N08TGtB4",
+          "title": "Why games are too big",
+          "published": "2023-09-24T17:58:19+00:00",
+          "url": "https://www.youtube.com/watch?v=2f4N08TGtB4",
+          "thumbnail": "https://i.ytimg.com/vi/2f4N08TGtB4/hqdefault.jpg"
+        }
+      ]
+    },
+    "UCMAJEIm9a_NGhD7BgWDMoXw": {
+      "name": "Jimmy McGee",
+      "fetched_at": "2026-10-17T09:35:24+00:00",
+      "videos": [
+        {
+          "id": "rutDpTwztaY",
+          "title": "Super Mario Bros. Review (and 2024 Review)",
+          "published": "2024-12-28T19:27:32+00:00",
+          "url": "https://www.youtube.com/watch?v=rutDpTwztaY",
+          "thumbnail": "https://i.ytimg.com/vi/rutDpTwztaY/hqdefault.jpg"
+        },
+        {
+          "id": "lMZwegjS1V8",
+          "title": "Thoughts on Shadow of the Erdtree",
+          "published": "2024-08-12T23:30:14+00:00",
+          "url": "https://www.youtube.com/watch?v=lMZwegjS1V8",
+          "thumbnail": "https://i.ytimg.com/vi/lMZwegjS1V8/hqdefault.jpg"
+        },
+        {
+          "id": "Rkwx-HVVGbs",
+          "title": "Diablo 4 Critique",
+          "published": "2024-05-15T04:30:10+00:00",
+          "url": "https://www.youtube.com/watch?v=Rkwx-HVVGbs",
+          "thumbnail": "https://i.ytimg.com/vi/Rkwx-HVVGbs/hqdefault.jpg"
+        },
+        {
+          "id": "uLB6xFawPWI",
+          "title": "Raiden Fighters 2 Train Level Review",
+          "published": "2024-01-31T19:35:24+00:00",
+          "url": "https://www.youtube.com/watch?v=uLB6xFawPWI",
+          "thumbnail": "https://i.ytimg.com/vi/uLB6xFawPWI/hqdefault.jpg"
+        },
+        {
+          "id": "SOnO_Hjueak",
+          "title": "Age of Empires 2: A Guided Tour",
+          "published": "2023-12-24T19:45:00+00:00",
+          "url": "https://www.youtube.com/watch?v=SOnO_Hjueak",
+          "thumbnail": "https://i.ytimg.com/vi/SOnO_Hjueak/hqdefault.jpg"
+        },
+        {
+          "id": "-MUEXGaxFDA",
+          "title": "The AI Revolution is Rotten to the Core",
+          "published": "2023-09-15T19:00:00+00:00",
+          "url": "https://www.youtube.com/watch?v=-MUEXGaxFDA",
+          "thumbnail": "https://i.ytimg.com/vi/-MUEXGaxFDA/hqdefault.jpg"
+        },
+        {
+          "id": "HIb9A4ZMCkc",
+          "title": "Rusted Moss: A Guided Tour",
+          "published": "2023-06-23T17:27:48+00:00",
+          "url": "https://www.youtube.com/watch?v=HIb9A4ZMCkc",
+          "thumbnail": "https://i.ytimg.com/vi/HIb9A4ZMCkc/hqdefault.jpg"
+        },
+        {
+          "id": "DJoGm8c523M",
+          "title": "The Dream of the Internet",
+          "published": "2023-04-04T19:01:42+00:00",
+          "url": "https://www.youtube.com/watch?v=DJoGm8c523M",
+          "thumbnail": "https://i.ytimg.com/vi/DJoGm8c523M/hqdefault.jpg"
+        },
+        {
+          "id": "EIKPsq7C1vQ",
+          "title": "Rain World Downpour: A Guided Tour",
+          "published": "2023-03-24T17:57:54+00:00",
+          "url": "https://www.youtube.com/watch?v=EIKPsq7C1vQ",
+          "thumbnail": "https://i.ytimg.com/vi/EIKPsq7C1vQ/hqdefault.jpg"
+        },
+        {
+          "id": "1X6D39Cd34k",
+          "title": "A real history of video games | Pay to Win",
+          "published": "2022-12-20T00:15:22+00:00",
+          "url": "https://www.youtube.com/watch?v=1X6D39Cd34k",
+          "thumbnail": "https://i.ytimg.com/vi/1X6D39Cd34k/hqdefault.jpg"
+        },
+        {
+          "id": "jQIHqkudgNY",
+          "title": "Gambling and the desire machine | Pay to Win",
+          "published": "2022-08-14T00:43:09+00:00",
+          "url": "https://www.youtube.com/watch?v=jQIHqkudgNY",
+          "thumbnail": "https://i.ytimg.com/vi/jQIHqkudgNY/hqdefault.jpg"
+        },
+        {
+          "id": "nJTdwbutW9k",
+          "title": "Teleglitch: A Guided Tour",
+          "published": "2022-06-18T18:15:47+00:00",
+          "url": "https://www.youtube.com/watch?v=nJTdwbutW9k",
+          "thumbnail": "https://i.ytimg.com/vi/nJTdwbutW9k/hqdefault.jpg"
+        },
+        {
+          "id": "pD2snqLggsk",
+          "title": "Hotline Miami 2 Wrong Number: A Guided Tour",
+          "published": "2022-05-13T23:02:51+00:00",
+          "url": "https://www.youtube.com/watch?v=pD2snqLggsk",
+          "thumbnail": "https://i.ytimg.com/vi/pD2snqLggsk/hqdefault.jpg"
+        },
+        {
+          "id": "YHz0xpU5Tu8",
+          "title": "Crypto Games: Report from hell",
+          "published": "2021-11-17T14:23:36+00:00",
+          "url": "https://www.youtube.com/watch?v=YHz0xpU5Tu8",
+          "thumbnail": "https://i.ytimg.com/vi/YHz0xpU5Tu8/hqdefault.jpg"
+        },
+        {
+          "id": "cI7LUbKZtfM",
+          "title": "Cruelty Squad: A Guided Tour",
+          "published": "2021-08-05T18:03:07+00:00",
+          "url": "https://www.youtube.com/watch?v=cI7LUbKZtfM",
+          "thumbnail": "https://i.ytimg.com/vi/cI7LUbKZtfM/hqdefault.jpg"
+        }
+      ]
+    },
+    "UCyNtlmLB73-7gtlBz00XOQQ": {
+      "name": "Folding Ideas",
+      "fetched_at": "2026-10-17T09:35:24+00:00",
+      "videos": [
+        {
+          "id": "29K0R5S-v_k",
+          "title": "Belle and the Meaning of Place",
+          "published": "2026-07-07T19:16:48+00:00",
+          "url": "https://www.youtube.com/watch?v=29K0R5S-v_k",
+          "thumbnail": "https://i.ytimg.com/vi/29K0R5S-v_k/hqdefault.jpg"
+        },
+        {
+          "id": "2ubYGdMCQTA",
+          "title": "Beast Games 2 Strong/Smart: an Exhaustive Review",
+          "published": "2026-04-24T18:00:12+00:00",
+          "url": "https://www.youtube.com/watch?v=2ubYGdMCQTA",
+          "thumbnail": "https://i.ytimg.com/vi/2ubYGdMCQTA/hqdefault.jpg"
+        },
+        {
+          "id": "0dwagg5wYY4",
+          "title": "Why was I invited to Beast Studios?",
+          "published": "2026-04-17T17:00:49+00:00",
+          "url": "https://www.youtube.com/watch?v=0dwagg5wYY4",
+          "thumbnail": "https://i.ytimg.com/vi/0dwagg5wYY4/hqdefault.jpg"
+        },
+        {
+          "id": "c7WqVx9x89s",
+          "title": "Ruminations on that DHS Penguin Tweet",
+          "published": "2026-01-26T23:15:34+00:00",
+          "url": "https://www.youtube.com/watch?v=c7WqVx9x89s",
+          "thumbnail": "https://i.ytimg.com/vi/c7WqVx9x89s/hqdefault.jpg"
+        },
+        {
+          "id": "i5m-RHS1fU0",
+          "title": "This Is How You Get JARHEAD Sequels",
+          "published": "2026-01-09T23:35:54+00:00",
+          "url": "https://www.youtube.com/watch?v=i5m-RHS1fU0",
+          "thumbnail": "https://i.ytimg.com/vi/i5m-RHS1fU0/hqdefault.jpg"
+        },
+        {
+          "id": "eKPM7cZORTE",
+          "title": "Call of Duty: Ghosts – Power, Paranoia, and Orbital Tungsten Rods",
+          "published": "2025-08-30T02:21:15+00:00",
+          "url": "https://www.youtube.com/watch?v=eKPM7cZORTE",
+          "thumbnail": "https://i.ytimg.com/vi/eKPM7cZORTE/hqdefault.jpg"
+        },
+        {
+          "id": "2UDXdqqJQPE",
+          "title": "Mantracks: a True Story of Fake Fossils",
+          "published": "2025-01-10T16:31:50+00:00",
+          "url": "https://www.youtube.com/watch?v=2UDXdqqJQPE",
+          "thumbnail": "https://i.ytimg.com/vi/2UDXdqqJQPE/hqdefault.jpg"
+        },
+        {
+          "id": "b3gZOt1Lo4A",
+          "title": "I Don't Know James Rolfe",
+          "published": "2024-06-19T21:07:56+00:00",
+          "url": "https://www.youtube.com/watch?v=b3gZOt1Lo4A",
+          "thumbnail": "https://i.ytimg.com/vi/b3gZOt1Lo4A/hqdefault.jpg"
+        },
+        {
+          "id": "ihvG3RgbYzE",
+          "title": "About That Idris Elba Gold Documentary",
+          "published": "2024-01-11T00:35:46+00:00",
+          "url": "https://www.youtube.com/watch?v=ihvG3RgbYzE",
+          "thumbnail": "https://i.ytimg.com/vi/ihvG3RgbYzE/hqdefault.jpg"
+        },
+        {
+          "id": "Vl307SfWyzg",
+          "title": "The Darkmoon Fiasco",
+          "published": "2023-11-12T03:14:18+00:00",
+          "url": "https://www.youtube.com/watch?v=Vl307SfWyzg",
+          "thumbnail": "https://i.ytimg.com/vi/Vl307SfWyzg/hqdefault.jpg"
+        },
+        {
+          "id": "5pYeoZaoWrA",
+          "title": "This is Financial Advice",
+          "published": "2023-10-01T00:02:11+00:00",
+          "url": "https://www.youtube.com/watch?v=5pYeoZaoWrA",
+          "thumbnail": "https://i.ytimg.com/vi/5pYeoZaoWrA/hqdefault.jpg"
+        },
+        {
+          "id": "EiZhdpLXZ8Q",
+          "title": "The Future is a Dead Mall - Decentraland and the Metaverse",
+          "published": "2023-03-26T22:57:26+00:00",
+          "url": "https://www.youtube.com/watch?v=EiZhdpLXZ8Q",
+          "thumbnail": "https://i.ytimg.com/vi/EiZhdpLXZ8Q/hqdefault.jpg"
+        },
+        {
+          "id": "BKP1I7IocYU",
+          "title": "Why It's Rude to Suck at Warcraft",
+          "published": "2022-11-25T23:51:03+00:00",
+          "url": "https://www.youtube.com/watch?v=BKP1I7IocYU",
+          "thumbnail": "https://i.ytimg.com/vi/BKP1I7IocYU/hqdefault.jpg"
+        },
+        {
+          "id": "biYciU1uiUw",
+          "title": "Contrepreneurs: The Mikkelsen Twins",
+          "published": "2022-09-27T17:53:34+00:00",
+          "url": "https://www.youtube.com/watch?v=biYciU1uiUw",
+          "thumbnail": "https://i.ytimg.com/vi/biYciU1uiUw/hqdefault.jpg"
+        },
+        {
+          "id": "YQ_xWvX1n9g",
+          "title": "Line Goes Up – The Problem With NFTs",
+          "published": "2022-01-21T17:00:03+00:00",
+          "url": "https://www.youtube.com/watch?v=YQ_xWvX1n9g",
+          "thumbnail": "https://i.ytimg.com/vi/YQ_xWvX1n9g/hqdefault.jpg"
+        }
+      ]
+    },
+    "UCSdma21fnJzgmPodhC9SJ3g": {
+      "name": "NakeyJakey",
+      "fetched_at": "2026-10-17T09:35:24+00:00",
+      "videos": [
+        {
+          "id": "vkYu3seV9FI",
+          "title": "How Mods Changed Video Games Forever",
+          "published": "2026-09-26T18:36:26+00:00",
+          "url": "https://www.youtube.com/watch?v=vkYu3seV9FI",
+          "thumbnail": "https://i.ytimg.com/vi/vkYu3seV9FI/hqdefault.jpg"
+        },
+        {
+          "id": "7cMc4M5QJvM",
+          "title": "The Best Sports Game Nobody Played",
+          "published": "2026-04-17T19:33:12+00:00",
+          "url": "https://www.youtube.com/watch?v=7cMc4M5QJvM",
+          "thumbnail": "https://i.ytimg.com/vi/7cMc4M5QJvM/hqdefault.jpg"
+        },
+        {
+          "id": "snNIZGuo92c",
+          "title": "S̶i̶l̶k̶s̶o̶n̶g̶ NakeyJakey is Outdated",
+          "published": "2025-12-01T00:43:00+00:00",
+          "url": "https://www.youtube.com/watch?v=snNIZGuo92c",
+          "thumbnail": "https://i.ytimg.com/vi/snNIZGuo92c/hqdefault.jpg"
+        },
+        {
+          "id": "NbJIbdcLn6M",
+          "title": "How Counter-Strike Took Over My Life",
+          "published": "2025-05-17T01:41:03+00:00",
+          "url": "https://www.youtube.com/watch?v=NbJIbdcLn6M",
+          "thumbnail": "https://i.ytimg.com/vi/NbJIbdcLn6M/hqdefault.jpg"
+        },
+        {
+          "id": "LZzubS1ILTs",
+          "title": "Microsoft Sucks at Everything",
+          "published": "2024-10-31T22:22:23+00:00",
+          "url": "https://www.youtube.com/watch?v=LZzubS1ILTs",
+          "thumbnail": "https://i.ytimg.com/vi/LZzubS1ILTs/hqdefault.jpg"
+        },
+        {
+          "id": "JdmnL6QnsRs",
+          "title": "Stealth in Video Games",
+          "published": "2024-08-18T19:31:52+00:00",
+          "url": "https://www.youtube.com/watch?v=JdmnL6QnsRs",
+          "thumbnail": "https://i.ytimg.com/vi/JdmnL6QnsRs/hqdefault.jpg"
+        },
+        {
+          "id": "PvzhE_MuMhM",
+          "title": "In Defense of the 7/10 Games",
+          "published": "2024-06-05T21:05:27+00:00",
+          "url": "https://www.youtube.com/watch?v=PvzhE_MuMhM",
+          "thumbnail": "https://i.ytimg.com/vi/PvzhE_MuMhM/hqdefault.jpg"
+        },
+        {
+          "id": "gcRleWwWpsY",
+          "title": "Returning to Red Dead Redemption 2",
+          "published": "2024-03-25T19:02:02+00:00",
+          "url": "https://www.youtube.com/watch?v=gcRleWwWpsY",
+          "thumbnail": "https://i.ytimg.com/vi/gcRleWwWpsY/hqdefault.jpg"
+        },
+        {
+          "id": "hS2emKDlGmE",
+          "title": "Bethesda's Game Design Was Outdated a Decade Ago",
+          "published": "2023-12-09T23:57:20+00:00",
+          "url": "https://www.youtube.com/watch?v=hS2emKDlGmE",
+          "thumbnail": "https://i.ytimg.com/vi/hS2emKDlGmE/hqdefault.jpg"
+        },
+        {
+          "id": "0djdUypilBs",
+          "title": "NPCs in Video Games",
+          "published": "2023-09-30T21:11:40+00:00",
+          "url": "https://www.youtube.com/watch?v=0djdUypilBs",
+          "thumbnail": "https://i.ytimg.com/vi/0djdUypilBs/hqdefault.jpg"
+        },
+        {
+          "id": "cvDGqAtNzUc",
+          "title": "Crappy Technology",
+          "published": "2023-07-31T16:48:43+00:00",
+          "url": "https://www.youtube.com/watch?v=cvDGqAtNzUc",
+          "thumbnail": "https://i.ytimg.com/vi/cvDGqAtNzUc/hqdefault.jpg"
+        },
+        {
+          "id": "akoK3U2ZNXM",
+          "title": "FromSoftware's Game Design Changed Everything",
+          "published": "2023-05-31T20:16:46+00:00",
+          "url": "https://www.youtube.com/watch?v=akoK3U2ZNXM",
+          "thumbnail": "https://i.ytimg.com/vi/akoK3U2ZNXM/hqdefault.jpg"
+        },
+        {
+          "id": "3fji_71hOQs",
+          "title": "The Age of Broken Video Games",
+          "published": "2023-03-16T18:43:46+00:00",
+          "url": "https://www.youtube.com/watch?v=3fji_71hOQs",
+          "thumbnail": "https://i.ytimg.com/vi/3fji_71hOQs/hqdefault.jpg"
+        },
+        {
+          "id": "MDKg_aF7XAk",
+          "title": "Jakey - DRIVE OFF A BRIDGE (Official Video)",
+          "published": "2022-11-19T19:04:28+00:00",
+          "url": "https://www.youtube.com/watch?v=MDKg_aF7XAk",
+          "thumbnail": "https://i.ytimg.com/vi/MDKg_aF7XAk/hqdefault.jpg"
+        },
+        {
+          "id": "q7PBNHyaoDc",
+          "title": "Ads in Video Games",
+          "published": "2022-10-29T17:56:20+00:00",
+          "url": "https://www.youtube.com/watch?v=q7PBNHyaoDc",
+          "thumbnail": "https://i.ytimg.com/vi/q7PBNHyaoDc/hqdefault.jpg"
+        }
+      ]
+    },
+    "UCBtWQTdJwOwC1YJPyCeugIg": {
+      "name": "Comedy Without Errors",
+      "fetched_at": "2026-10-17T09:35:24+00:00",
+      "videos": [
+        {
+          "id": "LPQI3v9eeAs",
+          "title": "We Need to Talk About Louis - Part 5",
+          "published": "2026-07-14T16:00:12+00:00",
+          "url": "https://www.youtube.com/watch?v=LPQI3v9eeAs",
+          "thumbnail": "https://i.ytimg.com/vi/LPQI3v9eeAs/hqdefault.jpg"
+        },
+        {
+          "id": "dcsByHsVPFE",
+          "title": "We Need to Talk About Louis - Part 4",
+          "published": "2026-03-25T19:00:32+00:00",
+          "url": "https://www.youtube.com/watch?v=dcsByHsVPFE",
+          "thumbnail": "https://i.ytimg.com/vi/dcsByHsVPFE/hqdefault.jpg"
+        },
+        {
+          "id": "oP514mGrVcs",
+          "title": "We Need to Talk About Louis - Part 3",
+          "published": "2025-12-21T19:00:49+00:00",
+          "url": "https://www.youtube.com/watch?v=oP514mGrVcs",
+          "thumbnail": "https://i.ytimg.com/vi/oP514mGrVcs/hqdefault.jpg"
+        },
+        {
+          "id": "MsTUx-NOZTU",
+          "title": "We Need to Talk About Louis - Part 2",
+          "published": "2025-12-07T19:00:09+00:00",
+          "url": "https://www.youtube.com/watch?v=MsTUx-NOZTU",
+          "thumbnail": "https://i.ytimg.com/vi/MsTUx-NOZTU/hqdefault.jpg"
+        },
+        {
+          "id": "93nMBtXVAfM",
+          "title": "We Need to Talk About Louis - Part 1",
+          "published": "2025-11-26T19:00:04+00:00",
+          "url": "https://www.youtube.com/watch?v=93nMBtXVAfM",
+          "thumbnail": "https://i.ytimg.com/vi/93nMBtXVAfM/hqdefault.jpg"
+        },
+        {
+          "id": "GgKQ30A3UTU",
+          "title": "George Carlin's Secret Weapon",
+          "published": "2025-02-10T03:11:11+00:00",
+          "url": "https://www.youtube.com/watch?v=GgKQ30A3UTU",
+          "thumbnail": "https://i.ytimg.com/vi/GgKQ30A3UTU/hqdefault.jpg"
+        },
+        {
+          "id": "IEsKNFEjIF4",
+          "title": "Baby J Gave Me a Comedy Crisis",
+          "published": "2024-11-27T18:16:43+00:00",
+          "url": "https://www.youtube.com/watch?v=IEsKNFEjIF4",
+          "thumbnail": "https://i.ytimg.com/vi/IEsKNFEjIF4/hqdefault.jpg"
+        },
+        {
+          "id": "kdOYgqCzJ4s",
+          "title": "Is Basic Lee Any Good?",
+          "published": "2024-10-31T18:59:12+00:00",
+          "url": "https://www.youtube.com/watch?v=kdOYgqCzJ4s",
+          "thumbnail": "https://i.ytimg.com/vi/kdOYgqCzJ4s/hqdefault.jpg"
+        },
+        {
+          "id": "or2bIhTNNPg",
+          "title": "Ali Wong's Single Lady is FINE",
+          "published": "2024-10-16T18:02:28+00:00",
+          "url": "https://www.youtube.com/watch?v=or2bIhTNNPg",
+          "thumbnail": "https://i.ytimg.com/vi/or2bIhTNNPg/hqdefault.jpg"
+        },
+        {
+          "id": "M9hhuxNwXaI",
+          "title": "Akaash Singh's 'Gaslit' is Terrible",
+          "published": "2024-10-08T18:20:10+00:00",
+          "url": "https://www.youtube.com/watch?v=M9hhuxNwXaI",
+          "thumbnail": "https://i.ytimg.com/vi/M9hhuxNwXaI/hqdefault.jpg"
+        },
+        {
+          "id": "gWJf_FCJV6k",
+          "title": "Is Adam Sandler's 'Love You' Any Good?",
+          "published": "2024-10-01T18:01:19+00:00",
+          "url": "https://www.youtube.com/watch?v=gWJf_FCJV6k",
+          "thumbnail": "https://i.ytimg.com/vi/gWJf_FCJV6k/hqdefault.jpg"
+        },
+        {
+          "id": "6hLjQ_OAHiQ",
+          "title": "Comedian Reviews: Joe Pera - Slow & Steady",
+          "published": "2024-09-24T18:00:03+00:00",
+          "url": "https://www.youtube.com/watch?v=6hLjQ_OAHiQ",
+          "thumbnail": "https://i.ytimg.com/vi/6hLjQ_OAHiQ/hqdefault.jpg"
+        },
+        {
+          "id": "wmfK3r-2dwk",
+          "title": "Shane Gillis - Delivery is Everything",
+          "published": "2024-07-28T18:00:07+00:00",
+          "url": "https://www.youtube.com/watch?v=wmfK3r-2dwk",
+          "thumbnail": "https://i.ytimg.com/vi/wmfK3r-2dwk/hqdefault.jpg"
+        },
+        {
+          "id": "kw00-3xqWGY",
+          "title": "Guy Montgomery - (Full Interview) My Brain is Blowing Me Crazy",
+          "published": "2024-04-18T18:59:36+00:00",
+          "url": "https://www.youtube.com/watch?v=kw00-3xqWGY",
+          "thumbnail": "https://i.ytimg.com/vi/kw00-3xqWGY/hqdefault.jpg"
+        },
+        {
+          "id": "UqLPh0sszPM",
+          "title": "The Genius of Sean Lock",
+          "published": "2024-03-10T14:24:26+00:00",
+          "url": "https://www.youtube.com/watch?v=UqLPh0sszPM",
+          "thumbnail": "https://i.ytimg.com/vi/UqLPh0sszPM/hqdefault.jpg"
+        }
+      ]
+    },
+    "UCDJACu5LRKWE7sqagICB-ew": {
+      "name": "Spice8Rack",
+      "fetched_at": "2026-10-17T09:35:24+00:00",
+      "videos": [
+        {
+          "id": "sc0wvKi9HLw",
+          "title": "The Capitalist Realism of Reality Fracture",
+          "published": "2026-10-15T18:59:00+00:00",
+          "url": "https://www.youtube.com/watch?v=sc0wvKi9HLw",
+          "thumbnail": "https://i.ytimg.com/vi/sc0wvKi9HLw/hqdefault.jpg"
+        },
+        {
+          "id": "TvC5Awau7rU",
+          "title": "The Gameplay, Art, & Lore of Lorwyn Eclipsed Prerelease",
+          "published": "2026-01-15T17:52:11+00:00",
+          "url": "https://www.youtube.com/watch?v=TvC5Awau7rU",
+          "thumbnail": "https://i.ytimg.com/vi/TvC5Awau7rU/hqdefault.jpg"
+        },
+        {
+          "id": "4JghX1MBU68",
+          "title": "Revolution, Fascism, & Magic: The Gathering | Aetherdrift",
+          "published": "2025-12-21T19:03:54+00:00",
+          "url": "https://www.youtube.com/watch?v=4JghX1MBU68",
+          "thumbnail": "https://i.ytimg.com/vi/4JghX1MBU68/hqdefault.jpg"
+        },
+        {
+          "id": "LNGowvILFXo",
+          "title": "Magic: The Gathering, Spider-Man, & the End of Culture",
+          "published": "2025-09-30T16:50:13+00:00",
+          "url": "https://www.youtube.com/watch?v=LNGowvILFXo",
+          "thumbnail": "https://i.ytimg.com/vi/LNGowvILFXo/hqdefault.jpg"
+        },
+        {
+          "id": "bfG67OLpQoU",
+          "title": "You're Playing Group Hug Wrong",
+          "published": "2025-03-30T16:50:23+00:00",
+          "url": "https://www.youtube.com/watch?v=bfG67OLpQoU",
+          "thumbnail": "https://i.ytimg.com/vi/bfG67OLpQoU/hqdefault.jpg"
+        },
+        {
+          "id": "FbQLUrvRU2g",
+          "title": "How Magic Almost Ruined its Perfect Introduction",
+          "published": "2024-12-19T17:05:44+00:00",
+          "url": "https://www.youtube.com/watch?v=FbQLUrvRU2g",
+          "thumbnail": "https://i.ytimg.com/vi/FbQLUrvRU2g/hqdefault.jpg"
+        },
+        {
+          "id": "o7P8GV2mNpE",
+          "title": "The Postmodern Horror of Magic: The Gathering | Duskmourn",
+          "published": "2024-10-31T17:02:20+00:00",
+          "url": "https://www.youtube.com/watch?v=o7P8GV2mNpE",
+          "thumbnail": "https://i.ytimg.com/vi/o7P8GV2mNpE/hqdefault.jpg"
+        },
+        {
+          "id": "AkmqxHGN2LU",
+          "title": "Saving Magic: The Gathering's Endangered Creatures",
+          "published": "2024-07-31T16:40:01+00:00",
+          "url": "https://www.youtube.com/watch?v=AkmqxHGN2LU",
+          "thumbnail": "https://i.ytimg.com/vi/AkmqxHGN2LU/hqdefault.jpg"
+        },
+        {
+          "id": "m9AvT6mS0xE",
+          "title": "Magic: The Gathering & the Death of the Future",
+          "published": "2024-06-01T16:55:16+00:00",
+          "url": "https://www.youtube.com/watch?v=m9AvT6mS0xE",
+          "thumbnail": "https://i.ytimg.com/vi/m9AvT6mS0xE/hqdefault.jpg"
+        },
+        {
+          "id": "dAksq3bCjLY",
+          "title": "A Very Normal Look at Tarkir",
+          "published": "2024-02-20T17:51:58+00:00",
+          "url": "https://www.youtube.com/watch?v=dAksq3bCjLY",
+          "thumbnail": "https://i.ytimg.com/vi/dAksq3bCjLY/hqdefault.jpg"
+        },
+        {
+          "id": "ZMkHRthL6U4",
+          "title": "The Best Card in Magic: the Gathering",
+          "published": "2023-10-02T15:59:31+00:00",
+          "url": "https://www.youtube.com/watch?v=ZMkHRthL6U4",
+          "thumbnail": "https://i.ytimg.com/vi/ZMkHRthL6U4/hqdefault.jpg"
+        },
+        {
+          "id": "TcNWXRpUM-E",
+          "title": "The Entire Story of Magic: the Gathering",
+          "published": "2023-08-22T17:50:16+00:00",
+          "url": "https://www.youtube.com/watch?v=TcNWXRpUM-E",
+          "thumbnail": "https://i.ytimg.com/vi/TcNWXRpUM-E/hqdefault.jpg"
+        },
+        {
+          "id": "GWJxtOw0T7U",
+          "title": "Horror Boardgames | The Anatomy of Terror's Least Likely Home",
+          "published": "2023-06-29T15:54:23+00:00",
+          "url": "https://www.youtube.com/watch?v=GWJxtOw0T7U",
+          "thumbnail": "https://i.ytimg.com/vi/GWJxtOw0T7U/hqdefault.jpg"
+        },
+        {
+          "id": "T50rf9AEfvM",
+          "title": "What comes after the Multiverse? | Marvel & Magic: the Gathering [CC]",
+          "published": "2023-03-19T18:00:33+00:00",
+          "url": "https://www.youtube.com/watch?v=T50rf9AEfvM",
+          "thumbnail": "https://i.ytimg.com/vi/T50rf9AEfvM/hqdefault.jpg"
+        },
+        {
+          "id": "BoGk2KOXZWA",
+          "title": "Madness, Memory, Mill & Discard",
+          "published": "2023-02-27T17:52:00+00:00",
+          "url": "https://www.youtube.com/watch?v=BoGk2KOXZWA",
+          "thumbnail": "https://i.ytimg.com/vi/BoGk2KOXZWA/hqdefault.jpg"
+        }
+      ]
+    },
+    "UCJ6o36XL0CpYb6U5dNBiXHQ": {
+      "name": "Shaun",
+      "fetched_at": "2026-10-17T09:35:24+00:00",
+      "videos": [
+        {
+          "id": "tyU5Xkk6TuE",
+          "title": "The War on Science",
+          "published": "2025-09-23T14:02:56+00:00",
+          "url": "https://www.youtube.com/watch?v=tyU5Xkk6TuE",
+          "thumbnail": "https://i.ytimg.com/vi/tyU5Xkk6TuE/hqdefault.jpg"
+        },
+        {
+          "id": "WPsSguYNHpk",
+          "title": "Stellar Blade: The Fake Outrage",
+          "published": "2024-11-23T14:04:29+00:00",
+          "url": "https://www.youtube.com/watch?v=WPsSguYNHpk",
+          "thumbnail": "https://i.ytimg.com/vi/WPsSguYNHpk/hqdefault.jpg"
+        },
+        {
+          "id": "3xottY-7m3k",
+          "title": "Palestine",
+          "published": "2024-02-26T05:23:05+00:00",
+          "url": "https://www.youtube.com/watch?v=3xottY-7m3k",
+          "thumbnail": "https://i.ytimg.com/vi/3xottY-7m3k/hqdefault.jpg"
+        },
+        {
+          "id": "JBy93QX7ysE",
+          "title": "Kellie-Jay & the Neo-Nazis",
+          "published": "2023-07-11T18:47:27+00:00",
+          "url": "https://www.youtube.com/watch?v=JBy93QX7ysE",
+          "thumbnail": "https://i.ytimg.com/vi/JBy93QX7ysE/hqdefault.jpg"
+        },
+        {
+          "id": "PiXup0XvACw",
+          "title": "PragerU & Fatherhood",
+          "published": "2023-03-05T16:43:46+00:00",
+          "url": "https://www.youtube.com/watch?v=PiXup0XvACw",
+          "thumbnail": "https://i.ytimg.com/vi/PiXup0XvACw/hqdefault.jpg"
+        },
+        {
+          "id": "y6_TOFy3k6k",
+          "title": "Andrew Tate: How to be a Real Man",
+          "published": "2023-02-11T09:53:47+00:00",
+          "url": "https://www.youtube.com/watch?v=y6_TOFy3k6k",
+          "thumbnail": "https://i.ytimg.com/vi/y6_TOFy3k6k/hqdefault.jpg"
+        },
+        {
+          "id": "Ou_xvXJJk7k",
+          "title": "JK Rowling's New Friends",
+          "published": "2022-10-14T10:09:50+00:00",
+          "url": "https://www.youtube.com/watch?v=Ou_xvXJJk7k",
+          "thumbnail": "https://i.ytimg.com/vi/Ou_xvXJJk7k/hqdefault.jpg"
+        },
+        {
+          "id": "s0UAEjsKy4I",
+          "title": "How Wikipedia Got Ex Machina (2014) Wrong",
+          "published": "2022-07-15T00:01:10+00:00",
+          "url": "https://www.youtube.com/watch?v=s0UAEjsKy4I",
+          "thumbnail": "https://i.ytimg.com/vi/s0UAEjsKy4I/hqdefault.jpg"
+        },
+        {
+          "id": "3F7GW7Ro4OQ",
+          "title": "BBC Transphobia Part 4:  The ECU Response",
+          "published": "2022-06-17T13:37:30+00:00",
+          "url": "https://www.youtube.com/watch?v=3F7GW7Ro4OQ",
+          "thumbnail": "https://i.ytimg.com/vi/3F7GW7Ro4OQ/hqdefault.jpg"
+        },
+        {
+          "id": "-1iaJWSwUZs",
+          "title": "Harry Potter",
+          "published": "2022-03-03T23:20:47+00:00",
+          "url": "https://www.youtube.com/watch?v=-1iaJWSwUZs",
+          "thumbnail": "https://i.ytimg.com/vi/-1iaJWSwUZs/hqdefault.jpg"
+        },
+        {
+          "id": "fRn1UZ4fhdE",
+          "title": "BBC Transphobia Part 3",
+          "published": "2022-01-20T22:06:16+00:00",
+          "url": "https://www.youtube.com/watch?v=fRn1UZ4fhdE",
+          "thumbnail": "https://i.ytimg.com/vi/fRn1UZ4fhdE/hqdefault.jpg"
+        },
+        {
+          "id": "qfjTG6SVjmQ",
+          "title": "BBC Transphobia Part 2",
+          "published": "2021-12-03T20:12:08+00:00",
+          "url": "https://www.youtube.com/watch?v=qfjTG6SVjmQ",
+          "thumbnail": "https://i.ytimg.com/vi/qfjTG6SVjmQ/hqdefault.jpg"
+        },
+        {
+          "id": "b4buJMMiwcg",
+          "title": "Response to BBC transphobia",
+          "published": "2021-11-12T14:46:03+00:00",
+          "url": "https://www.youtube.com/watch?v=b4buJMMiwcg",
+          "thumbnail": "https://i.ytimg.com/vi/b4buJMMiwcg/hqdefault.jpg"
+        },
+        {
+          "id": "5wRDLf54Scs",
+          "title": "Jimmy Dore's Anti-Vaccine Lies",
+          "published": "2021-11-05T13:08:27+00:00",
+          "url": "https://www.youtube.com/watch?v=5wRDLf54Scs",
+          "thumbnail": "https://i.ytimg.com/vi/5wRDLf54Scs/hqdefault.jpg"
+        },
+        {
+          "id": "xjnubfRy8Ws",
+          "title": "Hijacking the Dead? Terry Pratchett & the Trans \"Debate\"",
+          "published": "2021-08-12T13:00:51+00:00",
+          "url": "https://www.youtube.com/watch?v=xjnubfRy8Ws",
+          "thumbnail": "https://i.ytimg.com/vi/xjnubfRy8Ws/hqdefault.jpg"
+        }
+      ]
+    },
+    "UCCT8a7d6S6RJUivBgNRsiYg": {
+      "name": "Three Arrows",
+      "fetched_at": "2026-10-17T09:35:24+00:00",
+      "videos": [
+        {
+          "id": "WD9skgXCd8k",
+          "title": "Germany’s Military Buildup Isn’t What You Think",
+          "published": "2026-06-28T20:46:20+00:00",
+          "url": "https://www.youtube.com/watch?v=WD9skgXCd8k",
+          "thumbnail": "https://i.ytimg.com/vi/WD9skgXCd8k/hqdefault.jpg"
+        },
+        {
+          "id": "UjmsfOXy5oM",
+          "title": "Kurzgesagt is Wrong About Germany",
+          "published": "2026-05-24T20:29:06+00:00",
+          "url": "https://www.youtube.com/watch?v=UjmsfOXy5oM",
+          "thumbnail": "https://i.ytimg.com/vi/UjmsfOXy5oM/hqdefault.jpg"
+        },
+        {
+          "id": "Kh0el8phS_o",
+          "title": "The Myth of Charlie Kirk",
+          "published": "2025-10-12T19:01:03+00:00",
+          "url": "https://www.youtube.com/watch?v=Kh0el8phS_o",
+          "thumbnail": "https://i.ytimg.com/vi/Kh0el8phS_o/hqdefault.jpg"
+        },
+        {
+          "id": "6skuCiLCjRA",
+          "title": "How To Dismantle a Democracy",
+          "published": "2025-05-10T19:41:26+00:00",
+          "url": "https://www.youtube.com/watch?v=6skuCiLCjRA",
+          "thumbnail": "https://i.ytimg.com/vi/6skuCiLCjRA/hqdefault.jpg"
+        },
+        {
+          "id": "E_TDQo9Zpv8",
+          "title": "The Iraq War: PragerU vs. Reality",
+          "published": "2023-03-03T18:42:24+00:00",
+          "url": "https://www.youtube.com/watch?v=E_TDQo9Zpv8",
+          "thumbnail": "https://i.ytimg.com/vi/E_TDQo9Zpv8/hqdefault.jpg"
+        },
+        {
+          "id": "ptyng78A0jk",
+          "title": "Matt Walsh and How Republicans Lost",
+          "published": "2023-01-06T19:17:13+00:00",
+          "url": "https://www.youtube.com/watch?v=ptyng78A0jk",
+          "thumbnail": "https://i.ytimg.com/vi/ptyng78A0jk/hqdefault.jpg"
+        },
+        {
+          "id": "CFDDf48nj9g",
+          "title": "America's Coming Weimar Moment",
+          "published": "2022-08-17T16:54:54+00:00",
+          "url": "https://www.youtube.com/watch?v=CFDDf48nj9g",
+          "thumbnail": "https://i.ytimg.com/vi/CFDDf48nj9g/hqdefault.jpg"
+        },
+        {
+          "id": "SmpkdPm9eeQ",
+          "title": "How the U.S. Keeps Losing its Wars",
+          "published": "2021-10-29T18:00:04+00:00",
+          "url": "https://www.youtube.com/watch?v=SmpkdPm9eeQ",
+          "thumbnail": "https://i.ytimg.com/vi/SmpkdPm9eeQ/hqdefault.jpg"
+        },
+        {
+          "id": "Fu-MDEXwV4s",
+          "title": "Was Every German Soldier Evil?",
+          "published": "2020-08-14T16:09:55+00:00",
+          "url": "https://www.youtube.com/watch?v=Fu-MDEXwV4s",
+          "thumbnail": "https://i.ytimg.com/vi/Fu-MDEXwV4s/hqdefault.jpg"
+        },
+        {
+          "id": "7Bd_H8Cyago",
+          "title": "The Easy Answers of YouTube Conservatism",
+          "published": "2020-05-22T16:00:53+00:00",
+          "url": "https://www.youtube.com/watch?v=7Bd_H8Cyago",
+          "thumbnail": "https://i.ytimg.com/vi/7Bd_H8Cyago/hqdefault.jpg"
+        },
+        {
+          "id": "1b-QtoSfM38",
+          "title": "YouTube and the Politics of Pessimism",
+          "published": "2020-02-14T21:00:10+00:00",
+          "url": "https://www.youtube.com/watch?v=1b-QtoSfM38",
+          "thumbnail": "https://i.ytimg.com/vi/1b-QtoSfM38/hqdefault.jpg"
+        },
+        {
+          "id": "VC4sAaV1eBs",
+          "title": "Fox News: How To Whitewash an Atrocity",
+          "published": "2019-12-01T19:26:13+00:00",
+          "url": "https://www.youtube.com/watch?v=VC4sAaV1eBs",
+          "thumbnail": "https://i.ytimg.com/vi/VC4sAaV1eBs/hqdefault.jpg"
+        },
+        {
+          "id": "sc-euVL8xQs",
+          "title": "Deutschland by Rammstein: An Analysis",
+          "published": "2019-10-06T15:54:47+00:00",
+          "url": "https://www.youtube.com/watch?v=sc-euVL8xQs",
+          "thumbnail": "https://i.ytimg.com/vi/sc-euVL8xQs/hqdefault.jpg"
+        },
+        {
+          "id": "O8UzmLsXGRU",
+          "title": "How Societies Turn Cruel",
+          "published": "2019-07-24T19:36:13+00:00",
+          "url": "https://www.youtube.com/watch?v=O8UzmLsXGRU",
+          "thumbnail": "https://i.ytimg.com/vi/O8UzmLsXGRU/hqdefault.jpg"
+        },
+        {
+          "id": "ejdlkfXwPQc",
+          "title": "Were the Crusades Defensive?",
+          "published": "2019-05-05T15:55:03+00:00",
+          "url": "https://www.youtube.com/watch?v=ejdlkfXwPQc",
+          "thumbnail": "https://i.ytimg.com/vi/ejdlkfXwPQc/hqdefault.jpg"
+        }
+      ]
+    },
+    "UCo8186mZYAY49flt6HkbqlQ": {
+      "name": "Leon Massey",
+      "fetched_at": "2026-10-17T09:35:24+00:00",
+      "videos": [
+        {
+          "id": "IdPuXWIPLMg",
+          "title": "Three - The Machine That Took Over Tekken",
+          "published": "2026-03-19T17:00:34+00:00",
+          "url": "https://www.youtube.com/watch?v=IdPuXWIPLMg",
+          "thumbnail": "https://i.ytimg.com/vi/IdPuXWIPLMg/hqdefault.jpg"
+        },
+        {
+          "id": "VWbtpAAbIVE",
+          "title": "SSX was a product",
+          "published": "2025-11-20T17:15:03+00:00",
+          "url": "https://www.youtube.com/watch?v=VWbtpAAbIVE",
+          "thumbnail": "https://i.ytimg.com/vi/VWbtpAAbIVE/hqdefault.jpg"
+        },
+        {
+          "id": "aiwMztkRPKM",
+          "title": "The Year EA Lost $1.1Billion",
+          "published": "2025-10-09T15:45:01+00:00",
+          "url": "https://www.youtube.com/watch?v=aiwMztkRPKM",
+          "thumbnail": "https://i.ytimg.com/vi/aiwMztkRPKM/hqdefault.jpg"
+        },
+        {
+          "id": "l830Sw4OaMA",
+          "title": "Pro-Skater 3+4 & The Remake Paradox",
+          "published": "2025-08-08T15:01:34+00:00",
+          "url": "https://www.youtube.com/watch?v=l830Sw4OaMA",
+          "thumbnail": "https://i.ytimg.com/vi/l830Sw4OaMA/hqdefault.jpg"
+        },
+        {
+          "id": "75-m8TK73MQ",
+          "title": "Halo 2 & The Long Goodbye",
+          "published": "2025-06-28T16:15:00+00:00",
+          "url": "https://www.youtube.com/watch?v=75-m8TK73MQ",
+          "thumbnail": "https://i.ytimg.com/vi/75-m8TK73MQ/hqdefault.jpg"
+        },
+        {
+          "id": "7a4O87yDzwY",
+          "title": "Black Monolith: An Unfinished Mystery",
+          "published": "2025-03-07T21:04:08+00:00",
+          "url": "https://www.youtube.com/watch?v=7a4O87yDzwY",
+          "thumbnail": "https://i.ytimg.com/vi/7a4O87yDzwY/hqdefault.jpg"
+        },
+        {
+          "id": "MxaxOdNs2wk",
+          "title": "I Still Love Guilty Gear Xrd",
+          "published": "2024-11-28T17:45:01+00:00",
+          "url": "https://www.youtube.com/watch?v=MxaxOdNs2wk",
+          "thumbnail": "https://i.ytimg.com/vi/MxaxOdNs2wk/hqdefault.jpg"
+        },
+        {
+          "id": "uHCVvoKzoJ0",
+          "title": "The Kart Racer Golden Age",
+          "published": "2024-10-25T16:30:21+00:00",
+          "url": "https://www.youtube.com/watch?v=uHCVvoKzoJ0",
+          "thumbnail": "https://i.ytimg.com/vi/uHCVvoKzoJ0/hqdefault.jpg"
+        },
+        {
+          "id": "Ibi6wA9sg8w",
+          "title": "Tekken's HypeTrain Disaster",
+          "published": "2024-08-31T16:30:07+00:00",
+          "url": "https://www.youtube.com/watch?v=Ibi6wA9sg8w",
+          "thumbnail": "https://i.ytimg.com/vi/Ibi6wA9sg8w/hqdefault.jpg"
+        },
+        {
+          "id": "tC2WlFnvHpo",
+          "title": "Kirby - Top to Bottom Tier",
+          "published": "2024-06-06T16:45:02+00:00",
+          "url": "https://www.youtube.com/watch?v=tC2WlFnvHpo",
+          "thumbnail": "https://i.ytimg.com/vi/tC2WlFnvHpo/hqdefault.jpg"
+        },
+        {
+          "id": "dpFG_VSJY84",
+          "title": "Tekken's Banned* Bottom Tiers",
+          "published": "2024-03-28T18:37:54+00:00",
+          "url": "https://www.youtube.com/watch?v=dpFG_VSJY84",
+          "thumbnail": "https://i.ytimg.com/vi/dpFG_VSJY84/hqdefault.jpg"
+        },
+        {
+          "id": "bdlUdl4BUQA",
+          "title": "Fighters Lost in the Files - Rising Thunders \"Hidden\" Characters",
+          "published": "2023-11-02T17:45:01+00:00",
+          "url": "https://www.youtube.com/watch?v=bdlUdl4BUQA",
+          "thumbnail": "https://i.ytimg.com/vi/bdlUdl4BUQA/hqdefault.jpg"
+        },
+        {
+          "id": "1sbIgjpsVTo",
+          "title": "Bomb Rush Cyberfunk is Good",
+          "published": "2023-09-29T16:15:00+00:00",
+          "url": "https://www.youtube.com/watch?v=1sbIgjpsVTo",
+          "thumbnail": "https://i.ytimg.com/vi/1sbIgjpsVTo/hqdefault.jpg"
+        },
+        {
+          "id": "nOsOmGZqVlo",
+          "title": "Sports Fantasy - Gaming's Least Appreciated Genre",
+          "published": "2023-08-18T16:15:07+00:00",
+          "url": "https://www.youtube.com/watch?v=nOsOmGZqVlo",
+          "thumbnail": "https://i.ytimg.com/vi/nOsOmGZqVlo/hqdefault.jpg"
+        },
+        {
+          "id": "gxk0NksuDjY",
+          "title": "What happened to the Power Weapon?",
+          "published": "2023-07-13T16:30:13+00:00",
+          "url": "https://www.youtube.com/watch?v=gxk0NksuDjY",
+          "thumbnail": "https://i.ytimg.com/vi/gxk0NksuDjY/hqdefault.jpg"
+        }
+      ]
+    },
+    "UCeDKIj0G5XbultKOQnacu_w": {
+      "name": "José",
+      "fetched_at": "2026-10-17T09:35:24+00:00",
+      "videos": [
+        {
+          "id": "KurCok9-yhY",
+          "title": "The Critical Drinker and Conservative Outrage",
+          "published": "2026-08-29T15:33:05+00:00",
+          "url": "https://www.youtube.com/watch?v=KurCok9-yhY",
+          "thumbnail": "https://i.ytimg.com/vi/KurCok9-yhY/hqdefault.jpg"
+        },
+        {
+          "id": "R16bWDuNRGQ",
+          "title": "The Daily Wire is Still in Decline",
+          "published": "2026-07-24T19:19:20+00:00",
+          "url": "https://www.youtube.com/watch?v=R16bWDuNRGQ",
+          "thumbnail": "https://i.ytimg.com/vi/R16bWDuNRGQ/hqdefault.jpg"
+        },
+        {
+          "id": "V4ovROcUpFQ",
+          "title": "First of Its Class: A Saved by the Bell Retrospective",
+          "published": "2026-06-06T16:54:29+00:00",
+          "url": "https://www.youtube.com/watch?v=V4ovROcUpFQ",
+          "thumbnail": "https://i.ytimg.com/vi/V4ovROcUpFQ/hqdefault.jpg"
+        },
+        {
+          "id": "DOyya1Ex32o",
+          "title": "\"Professor\" Jiang's Broken Classroom",
+          "published": "2026-05-08T16:00:20+00:00",
+          "url": "https://www.youtube.com/watch?v=DOyya1Ex32o",
+          "thumbnail": "https://i.ytimg.com/vi/DOyya1Ex32o/hqdefault.jpg"
+        },
+        {
+          "id": "Utp3_lS8lgM",
+          "title": "A Drab MAGA Game of Thrones: The Pendragon Cycle",
+          "published": "2026-03-28T19:06:52+00:00",
+          "url": "https://www.youtube.com/watch?v=Utp3_lS8lgM",
+          "thumbnail": "https://i.ytimg.com/vi/Utp3_lS8lgM/hqdefault.jpg"
+        },
+        {
+          "id": "YDta8lcoRdY",
+          "title": "My Month Watching Tucker Carlson",
+          "published": "2026-02-28T17:18:20+00:00",
+          "url": "https://www.youtube.com/watch?v=YDta8lcoRdY",
+          "thumbnail": "https://i.ytimg.com/vi/YDta8lcoRdY/hqdefault.jpg"
+        },
+        {
+          "id": "iZAdiZEIuMM",
+          "title": "Minnesota, Nick Shirley, and the Demonizing of a Community",
+          "published": "2026-01-27T19:44:35+00:00",
+          "url": "https://www.youtube.com/watch?v=iZAdiZEIuMM",
+          "thumbnail": "https://i.ytimg.com/vi/iZAdiZEIuMM/hqdefault.jpg"
+        },
+        {
+          "id": "1yaGk9mxAMw",
+          "title": "Pretty, Pretty, Pretty Good: A Curb Your Enthusiasm Retrospective",
+          "published": "2026-01-10T18:21:45+00:00",
+          "url": "https://www.youtube.com/watch?v=1yaGk9mxAMw",
+          "thumbnail": "https://i.ytimg.com/vi/1yaGk9mxAMw/hqdefault.jpg"
+        },
+        {
+          "id": "7UFgyLj87R4",
+          "title": "The Sharp Fall of Ben Shapiro",
+          "published": "2025-12-06T16:50:09+00:00",
+          "url": "https://www.youtube.com/watch?v=7UFgyLj87R4",
+          "thumbnail": "https://i.ytimg.com/vi/7UFgyLj87R4/hqdefault.jpg"
+        },
+        {
+          "id": "j1t1ZAq0C-k",
+          "title": "Claiming the Charlie Kirk Legacy",
+          "published": "2025-10-30T22:13:58+00:00",
+          "url": "https://www.youtube.com/watch?v=j1t1ZAq0C-k",
+          "thumbnail": "https://i.ytimg.com/vi/j1t1ZAq0C-k/hqdefault.jpg"
+        },
+        {
+          "id": "1CzZqXMMoLo",
+          "title": "The Family Tomb: A Six Feet Under Retrospective",
+          "published": "2025-10-11T15:48:31+00:00",
+          "url": "https://www.youtube.com/watch?v=1CzZqXMMoLo",
+          "thumbnail": "https://i.ytimg.com/vi/1CzZqXMMoLo/hqdefault.jpg"
+        },
+        {
+          "id": "p6ZRMbgNzik",
+          "title": "The Weird World of Anti-Choice Movies",
+          "published": "2025-09-13T15:54:35+00:00",
+          "url": "https://www.youtube.com/watch?v=p6ZRMbgNzik",
+          "thumbnail": "https://i.ytimg.com/vi/p6ZRMbgNzik/hqdefault.jpg"
+        },
+        {
+          "id": "fLSALy_FbqU",
+          "title": "A Response to Matt Walsh's \"Proof For Your Liberal Friend\" Series",
+          "published": "2025-08-09T15:35:03+00:00",
+          "url": "https://www.youtube.com/watch?v=fLSALy_FbqU",
+          "thumbnail": "https://i.ytimg.com/vi/fLSALy_FbqU/hqdefault.jpg"
+        },
+        {
+          "id": "6Myh8TtAZR4",
+          "title": "The Cost of Growing Up: An Everybody Hates Chris Retrospective",
+          "published": "2025-07-12T15:45:01+00:00",
+          "url": "https://www.youtube.com/watch?v=6Myh8TtAZR4",
+          "thumbnail": "https://i.ytimg.com/vi/6Myh8TtAZR4/hqdefault.jpg"
+        },
+        {
+          "id": "hbLDH79MMCk",
+          "title": "Candace Owens's Garbage Investigations",
+          "published": "2025-06-14T15:46:42+00:00",
+          "url": "https://www.youtube.com/watch?v=hbLDH79MMCk",
+          "thumbnail": "https://i.ytimg.com/vi/hbLDH79MMCk/hqdefault.jpg"
+        }
+      ]
+    },
+    "UCrr7y8rEXb7_RiVniwvzk9w": {
+      "name": "Thought Slime",
+      "fetched_at": "2026-10-17T09:35:24+00:00",
+      "videos": [
+        {
+          "id": "uUKYLxU0b3M",
+          "title": "Do trans people \"reject the science?\"",
+          "published": "2026-09-25T14:37:48+00:00",
+          "url": "https://www.youtube.com/watch?v=uUKYLxU0b3M",
+          "thumbnail": "https://i.ytimg.com/vi/uUKYLxU0b3M/hqdefault.jpg"
+        },
+        {
+          "id": "WTvP-tl3bno",
+          "title": "Woke 1 was right, actually",
+          "published": "2026-08-28T15:13:34+00:00",
+          "url": "https://www.youtube.com/watch?v=WTvP-tl3bno",
+          "thumbnail": "https://i.ytimg.com/vi/WTvP-tl3bno/hqdefault.jpg"
+        },
+        {
+          "id": "6RNXB6q-TAI",
+          "title": "Content dot mp4",
+          "published": "2026-06-29T18:02:32+00:00",
+          "url": "https://www.youtube.com/watch?v=6RNXB6q-TAI",
+          "thumbnail": "https://i.ytimg.com/vi/6RNXB6q-TAI/hqdefault.jpg"
+        },
+        {
+          "id": "e6uwbE_pxCE",
+          "title": "Attack of the Superwoke Gatekeepers!",
+          "published": "2026-01-27T14:25:28+00:00",
+          "url": "https://www.youtube.com/watch?v=e6uwbE_pxCE",
+          "thumbnail": "https://i.ytimg.com/vi/e6uwbE_pxCE/hqdefault.jpg"
+        },
+        {
+          "id": "0vHKo55BoyI",
+          "title": "Why is Andy Ngo afraid of frogs?",
+          "published": "2025-12-22T15:23:59+00:00",
+          "url": "https://www.youtube.com/watch?v=0vHKo55BoyI",
+          "thumbnail": "https://i.ytimg.com/vi/0vHKo55BoyI/hqdefault.jpg"
+        },
+        {
+          "id": "fqqwwS9Kvy8",
+          "title": "Why libs love a Charlie Kirk",
+          "published": "2025-10-16T17:56:14+00:00",
+          "url": "https://www.youtube.com/watch?v=fqqwwS9Kvy8",
+          "thumbnail": "https://i.ytimg.com/vi/fqqwwS9Kvy8/hqdefault.jpg"
+        },
+        {
+          "id": "DNo8sj-vgOg",
+          "title": "Plucky Lil' Israel",
+          "published": "2025-08-15T16:45:20+00:00",
+          "url": "https://www.youtube.com/watch?v=DNo8sj-vgOg",
+          "thumbnail": "https://i.ytimg.com/vi/DNo8sj-vgOg/hqdefault.jpg"
+        },
+        {
+          "id": "V159U_gEB70",
+          "title": "Pedro Pascal is DOOMED",
+          "published": "2025-06-19T15:05:57+00:00",
+          "url": "https://www.youtube.com/watch?v=V159U_gEB70",
+          "thumbnail": "https://i.ytimg.com/vi/V159U_gEB70/hqdefault.jpg"
+        },
+        {
+          "id": "tZzwO2B9b64",
+          "title": "Fascists will waste your time.",
+          "published": "2025-04-10T17:40:31+00:00",
+          "url": "https://www.youtube.com/watch?v=tZzwO2B9b64",
+          "thumbnail": "https://i.ytimg.com/vi/tZzwO2B9b64/hqdefault.jpg"
+        },
+        {
+          "id": "Ttb2BdExy38",
+          "title": "Becoming Immortal With Computers",
+          "published": "2025-01-07T17:38:53+00:00",
+          "url": "https://www.youtube.com/watch?v=Ttb2BdExy38",
+          "thumbnail": "https://i.ytimg.com/vi/Ttb2BdExy38/hqdefault.jpg"
+        },
+        {
+          "id": "uk_H5DA5ylM",
+          "title": "Responding politely to JJ McCullough without needless conflict, or resorting to rage baiting.",
+          "published": "2024-11-01T16:05:19+00:00",
+          "url": "https://www.youtube.com/watch?v=uk_H5DA5ylM",
+          "thumbnail": "https://i.ytimg.com/vi/uk_H5DA5ylM/hqdefault.jpg"
+        },
+        {
+          "id": "xLBPP51n17A",
+          "title": "Gazing into the abyss of Mr. Birchum",
+          "published": "2024-08-09T18:46:44+00:00",
+          "url": "https://www.youtube.com/watch?v=xLBPP51n17A",
+          "thumbnail": "https://i.ytimg.com/vi/xLBPP51n17A/hqdefault.jpg"
+        },
+        {
+          "id": "-2ZaH8wlSQI",
+          "title": "Zionists are Crybabies",
+          "published": "2024-05-21T17:24:49+00:00",
+          "url": "https://www.youtube.com/watch?v=-2ZaH8wlSQI",
+          "thumbnail": "https://i.ytimg.com/vi/-2ZaH8wlSQI/hqdefault.jpg"
+        },
+        {
+          "id": "QMAeeuGP7Jg",
+          "title": "The Modern Day Knight Project seems like a grift to me, dog.",
+          "published": "2024-04-12T14:44:35+00:00",
+          "url": "https://www.youtube.com/watch?v=QMAeeuGP7Jg",
+          "thumbnail": "https://i.ytimg.com/vi/QMAeeuGP7Jg/hqdefault.jpg"
+        },
+        {
+          "id": "o6dAkkqE5XE",
+          "title": "I Investigated the Biggest Scumbag on YouTube.",
+          "published": "2024-01-08T17:00:41+00:00",
+          "url": "https://www.youtube.com/watch?v=o6dAkkqE5XE",
+          "thumbnail": "https://i.ytimg.com/vi/o6dAkkqE5XE/hqdefault.jpg"
+        }
+      ]
+    },
+    "UC358urzyldvD78E9o2sR-Og": {
+      "name": "The Leftist Cooks",
+      "fetched_at": "2026-10-17T09:35:24+00:00",
+      "videos": [
+        {
+          "id": "K35FtbuyTh4",
+          "title": "Why Don't Fascists Eat Vegetables?",
+          "published": "2026-06-28T17:00:06+00:00",
+          "url": "https://www.youtube.com/watch?v=K35FtbuyTh4",
+          "thumbnail": "https://i.ytimg.com/vi/K35FtbuyTh4/hqdefault.jpg"
+        },
+        {
+          "id": "tEFOUP866ls",
+          "title": "The Human Cost of Borders",
+          "published": "2025-12-10T20:00:06+00:00",
+          "url": "https://www.youtube.com/watch?v=tEFOUP866ls",
+          "thumbnail": "https://i.ytimg.com/vi/tEFOUP866ls/hqdefault.jpg"
+        },
+        {
+          "id": "-n6VvpcdiC4",
+          "title": "Are Americans Irish?",
+          "published": "2025-09-08T19:00:06+00:00",
+          "url": "https://www.youtube.com/watch?v=-n6VvpcdiC4",
+          "thumbnail": "https://i.ytimg.com/vi/-n6VvpcdiC4/hqdefault.jpg"
+        },
+        {
+          "id": "iy53s5b3xkA",
+          "title": "Why Does Everyone Hate Children?",
+          "published": "2025-04-13T17:00:06+00:00",
+          "url": "https://www.youtube.com/watch?v=iy53s5b3xkA",
+          "thumbnail": "https://i.ytimg.com/vi/iy53s5b3xkA/hqdefault.jpg"
+        },
+        {
+          "id": "T31HKuabyMA",
+          "title": "When Your Hero Is A Monster",
+          "published": "2024-12-02T18:00:06+00:00",
+          "url": "https://www.youtube.com/watch?v=T31HKuabyMA",
+          "thumbnail": "https://i.ytimg.com/vi/T31HKuabyMA/hqdefault.jpg"
+        },
+        {
+          "id": "OeADcAaeDAg",
+          "title": "Should Leftists Have Children?",
+          "published": "2024-08-25T18:00:07+00:00",
+          "url": "https://www.youtube.com/watch?v=OeADcAaeDAg",
+          "thumbnail": "https://i.ytimg.com/vi/OeADcAaeDAg/hqdefault.jpg"
+        },
+        {
+          "id": "oE1dGuokz54",
+          "title": "How America Bought Ireland",
+          "published": "2024-05-30T17:00:07+00:00",
+          "url": "https://www.youtube.com/watch?v=oE1dGuokz54",
+          "thumbnail": "https://i.ytimg.com/vi/oE1dGuokz54/hqdefault.jpg"
+        },
+        {
+          "id": "dhCN06Kczuc",
+          "title": "Why is it Expensive to be Poor?",
+          "published": "2024-02-27T20:00:08+00:00",
+          "url": "https://www.youtube.com/watch?v=dhCN06Kczuc",
+          "thumbnail": "https://i.ytimg.com/vi/dhCN06Kczuc/hqdefault.jpg"
+        },
+        {
+          "id": "l1P5c24pgew",
+          "title": "Harm and Justice",
+          "published": "2023-11-29T20:00:12+00:00",
+          "url": "https://www.youtube.com/watch?v=l1P5c24pgew",
+          "thumbnail": "https://i.ytimg.com/vi/l1P5c24pgew/hqdefault.jpg"
+        },
+        {
+          "id": "_WcBJNHcrHs",
+          "title": "Spider-Verse, Identity Politics, Leftist Infighting, and the Oppression Olympics",
+          "published": "2023-08-20T15:00:06+00:00",
+          "url": "https://www.youtube.com/watch?v=_WcBJNHcrHs",
+          "thumbnail": "https://i.ytimg.com/vi/_WcBJNHcrHs/hqdefault.jpg"
+        },
+        {
+          "id": "CUgFQv4ocLI",
+          "title": "Sex and the Revolution",
+          "published": "2023-05-29T11:00:10+00:00",
+          "url": "https://www.youtube.com/watch?v=CUgFQv4ocLI",
+          "thumbnail": "https://i.ytimg.com/vi/CUgFQv4ocLI/hqdefault.jpg"
+        },
+        {
+          "id": "jaYWpNwLvxw",
+          "title": "This is Not a Video Essay",
+          "published": "2023-03-09T21:00:07+00:00",
+          "url": "https://www.youtube.com/watch?v=jaYWpNwLvxw",
+          "thumbnail": "https://i.ytimg.com/vi/jaYWpNwLvxw/hqdefault.jpg"
+        },
+        {
+          "id": "xA2qBqdG9ME",
+          "title": "Is Northern Ireland a Country?",
+          "published": "2023-02-01T19:00:10+00:00",
+          "url": "https://www.youtube.com/watch?v=xA2qBqdG9ME",
+          "thumbnail": "https://i.ytimg.com/vi/xA2qBqdG9ME/hqdefault.jpg"
+        },
+        {
+          "id": "0dEpFNvmIwQ",
+          "title": "Housing TV is Selling a Scam",
+          "published": "2022-12-19T20:00:10+00:00",
+          "url": "https://www.youtube.com/watch?v=0dEpFNvmIwQ",
+          "thumbnail": "https://i.ytimg.com/vi/0dEpFNvmIwQ/hqdefault.jpg"
+        },
+        {
+          "id": "BXTDDY7osDQ",
+          "title": "You're Probably Mentally Ill",
+          "published": "2022-10-25T20:00:11+00:00",
+          "url": "https://www.youtube.com/watch?v=BXTDDY7osDQ",
+          "thumbnail": "https://i.ytimg.com/vi/BXTDDY7osDQ/hqdefault.jpg"
+        }
+      ]
+    }
+  },
+  "videos": [
+    {
+      "id": "sc0wvKi9HLw",
+      "title": "The Capitalist Realism of Reality Fracture",
+      "published": "2026-10-15T18:59:00+00:00",
+      "url": "https://www.youtube.com/watch?v=sc0wvKi9HLw",
+      "thumbnail": "https://i.ytimg.com/vi/sc0wvKi9HLw/hqdefault.jpg",
+      "channel": "Spice8Rack",
+      "channel_id": "UCDJACu5LRKWE7sqagICB-ew"
+    },
+    {
+      "id": "vkYu3seV9FI",
+      "title": "How Mods Changed Video Games Forever",
+      "published": "2026-09-26T18:36:26+00:00",
+      "url": "https://www.youtube.com/watch?v=vkYu3seV9FI",
+      "thumbnail": "https://i.ytimg.com/vi/vkYu3seV9FI/hqdefault.jpg",
+      "channel": "NakeyJakey",
+      "channel_id": "UCSdma21fnJzgmPodhC9SJ3g"
+    },
+    {
+      "id": "uUKYLxU0b3M",
+      "title": "Do trans people \"reject the science?\"",
+      "published": "2026-09-25T14:37:48+00:00",
+      "url": "https://www.youtube.com/watch?v=uUKYLxU0b3M",
+      "thumbnail": "https://i.ytimg.com/vi/uUKYLxU0b3M/hqdefault.jpg",
+      "channel": "Thought Slime",
+      "channel_id": "UCrr7y8rEXb7_RiVniwvzk9w"
+    },
+    {
+      "id": "KurCok9-yhY",
+      "title": "The Critical Drinker and Conservative Outrage",
+      "published": "2026-08-29T15:33:05+00:00",
+      "url": "https://www.youtube.com/watch?v=KurCok9-yhY",
+      "thumbnail": "https://i.ytimg.com/vi/KurCok9-yhY/hqdefault.jpg",
+      "channel": "José",
+      "channel_id": "UCeDKIj0G5XbultKOQnacu_w"
+    },
+    {
+      "id": "WTvP-tl3bno",
+      "title": "Woke 1 was right, actually",
+      "published": "2026-08-28T15:13:34+00:00",
+      "url": "https://www.youtube.com/watch?v=WTvP-tl3bno",
+      "thumbnail": "https://i.ytimg.com/vi/WTvP-tl3bno/hqdefault.jpg",
+      "channel": "Thought Slime",
+      "channel_id": "UCrr7y8rEXb7_RiVniwvzk9w"
+    },
+    {
+      "id": "oNjpDDftpKc",
+      "title": "why don't more games do this??",
+      "published": "2026-07-25T13:27:22+00:00",
+      "url": "https://www.youtube.com/watch?v=oNjpDDftpKc",
+      "thumbnail": "https://i.ytimg.com/vi/oNjpDDftpKc/hqdefault.jpg",
+      "channel": "Noodle",
+      "channel_id": "UCj74rJ9Lgl3WTngq675wxKg"
+    },
+    {
+      "id": "R16bWDuNRGQ",
+      "title": "The Daily Wire is Still in Decline",
+      "published": "2026-07-24T19:19:20+00:00",
+      "url": "https://www.youtube.com/watch?v=R16bWDuNRGQ",
+      "thumbnail": "https://i.ytimg.com/vi/R16bWDuNRGQ/hqdefault.jpg",
+      "channel": "José",
+      "channel_id": "UCeDKIj0G5XbultKOQnacu_w"
+    },
+    {
+      "id": "LPQI3v9eeAs",
+      "title": "We Need to Talk About Louis - Part 5",
+      "published": "2026-07-14T16:00:12+00:00",
+      "url": "https://www.youtube.com/watch?v=LPQI3v9eeAs",
+      "thumbnail": "https://i.ytimg.com/vi/LPQI3v9eeAs/hqdefault.jpg",
+      "channel": "Comedy Without Errors",
+      "channel_id": "UCBtWQTdJwOwC1YJPyCeugIg"
+    },
+    {
+      "id": "29K0R5S-v_k",
+      "title": "Belle and the Meaning of Place",
+      "published": "2026-07-07T19:16:48+00:00",
+      "url": "https://www.youtube.com/watch?v=29K0R5S-v_k",
+      "thumbnail": "https://i.ytimg.com/vi/29K0R5S-v_k/hqdefault.jpg",
+      "channel": "Folding Ideas",
+      "channel_id": "UCyNtlmLB73-7gtlBz00XOQQ"
+    },
+    {
+      "id": "6RNXB6q-TAI",
+      "title": "Content dot mp4",
+      "published": "2026-06-29T18:02:32+00:00",
+      "url": "https://www.youtube.com/watch?v=6RNXB6q-TAI",
+      "thumbnail": "https://i.ytimg.com/vi/6RNXB6q-TAI/hqdefault.jpg",
+      "channel": "Thought Slime",
+      "channel_id": "UCrr7y8rEXb7_RiVniwvzk9w"
+    },
+    {
+      "id": "WD9skgXCd8k",
+      "title": "Germany’s Military Buildup Isn’t What You Think",
+      "published": "2026-06-28T20:46:20+00:00",
+      "url": "https://www.youtube.com/watch?v=WD9skgXCd8k",
+      "thumbnail": "https://i.ytimg.com/vi/WD9skgXCd8k/hqdefault.jpg",
+      "channel": "Three Arrows",
+      "channel_id": "UCCT8a7d6S6RJUivBgNRsiYg"
+    },
+    {
+      "id": "K35FtbuyTh4",
+      "title": "Why Don't Fascists Eat Vegetables?",
+      "published": "2026-06-28T17:00:06+00:00",
+      "url": "https://www.youtube.com/watch?v=K35FtbuyTh4",
+      "thumbnail": "https://i.ytimg.com/vi/K35FtbuyTh4/hqdefault.jpg",
+      "channel": "The Leftist Cooks",
+      "channel_id": "UC358urzyldvD78E9o2sR-Og"
+    },
+    {
+      "id": "V4ovROcUpFQ",
+      "title": "First of Its Class: A Saved by the Bell Retrospective",
+      "published": "2026-06-06T16:54:29+00:00",
+      "url": "https://www.youtube.com/watch?v=V4ovROcUpFQ",
+      "thumbnail": "https://i.ytimg.com/vi/V4ovROcUpFQ/hqdefault.jpg",
+      "channel": "José",
+      "channel_id": "UCeDKIj0G5XbultKOQnacu_w"
+    },
+    {
+      "id": "UjmsfOXy5oM",
+      "title": "Kurzgesagt is Wrong About Germany",
+      "published": "2026-05-24T20:29:06+00:00",
+      "url": "https://www.youtube.com/watch?v=UjmsfOXy5oM",
+      "thumbnail": "https://i.ytimg.com/vi/UjmsfOXy5oM/hqdefault.jpg",
+      "channel": "Three Arrows",
+      "channel_id": "UCCT8a7d6S6RJUivBgNRsiYg"
+    },
+    {
+      "id": "DOyya1Ex32o",
+      "title": "\"Professor\" Jiang's Broken Classroom",
+      "published": "2026-05-08T16:00:20+00:00",
+      "url": "https://www.youtube.com/watch?v=DOyya1Ex32o",
+      "thumbnail": "https://i.ytimg.com/vi/DOyya1Ex32o/hqdefault.jpg",
+      "channel": "José",
+      "channel_id": "UCeDKIj0G5XbultKOQnacu_w"
+    },
+    {
+      "id": "2ubYGdMCQTA",
+      "title": "Beast Games 2 Strong/Smart: an Exhaustive Review",
+      "published": "2026-04-24T18:00:12+00:00",
+      "url": "https://www.youtube.com/watch?v=2ubYGdMCQTA",
+      "thumbnail": "https://i.ytimg.com/vi/2ubYGdMCQTA/hqdefault.jpg",
+      "channel": "Folding Ideas",
+      "channel_id": "UCyNtlmLB73-7gtlBz00XOQQ"
+    },
+    {
+      "id": "7cMc4M5QJvM",
+      "title": "The Best Sports Game Nobody Played",
+      "published": "2026-04-17T19:33:12+00:00",
+      "url": "https://www.youtube.com/watch?v=7cMc4M5QJvM",
+      "thumbnail": "https://i.ytimg.com/vi/7cMc4M5QJvM/hqdefault.jpg",
+      "channel": "NakeyJakey",
+      "channel_id": "UCSdma21fnJzgmPodhC9SJ3g"
+    },
+    {
+      "id": "0dwagg5wYY4",
+      "title": "Why was I invited to Beast Studios?",
+      "published": "2026-04-17T17:00:49+00:00",
+      "url": "https://www.youtube.com/watch?v=0dwagg5wYY4",
+      "thumbnail": "https://i.ytimg.com/vi/0dwagg5wYY4/hqdefault.jpg",
+      "channel": "Folding Ideas",
+      "channel_id": "UCyNtlmLB73-7gtlBz00XOQQ"
+    },
+    {
+      "id": "79HqrIz9jsc",
+      "title": "The Art Of Stealing People's Trust",
+      "published": "2026-04-05T16:30:06+00:00",
+      "url": "https://www.youtube.com/watch?v=79HqrIz9jsc",
+      "thumbnail": "https://i.ytimg.com/vi/79HqrIz9jsc/hqdefault.jpg",
+      "channel": "Noodle",
+      "channel_id": "UCj74rJ9Lgl3WTngq675wxKg"
+    },
+    {
+      "id": "Utp3_lS8lgM",
+      "title": "A Drab MAGA Game of Thrones: The Pendragon Cycle",
+      "published": "2026-03-28T19:06:52+00:00",
+      "url": "https://www.youtube.com/watch?v=Utp3_lS8lgM",
+      "thumbnail": "https://i.ytimg.com/vi/Utp3_lS8lgM/hqdefault.jpg",
+      "channel": "José",
+      "channel_id": "UCeDKIj0G5XbultKOQnacu_w"
+    },
+    {
+      "id": "dcsByHsVPFE",
+      "title": "We Need to Talk About Louis - Part 4",
+      "published": "2026-03-25T19:00:32+00:00",
+      "url": "https://www.youtube.com/watch?v=dcsByHsVPFE",
+      "thumbnail": "https://i.ytimg.com/vi/dcsByHsVPFE/hqdefault.jpg",
+      "channel": "Comedy Without Errors",
+      "channel_id": "UCBtWQTdJwOwC1YJPyCeugIg"
+    },
+    {
+      "id": "IdPuXWIPLMg",
+      "title": "Three - The Machine That Took Over Tekken",
+      "published": "2026-03-19T17:00:34+00:00",
+      "url": "https://www.youtube.com/watch?v=IdPuXWIPLMg",
+      "thumbnail": "https://i.ytimg.com/vi/IdPuXWIPLMg/hqdefault.jpg",
+      "channel": "Leon Massey",
+      "channel_id": "UCo8186mZYAY49flt6HkbqlQ"
+    },
+    {
+      "id": "YDta8lcoRdY",
+      "title": "My Month Watching Tucker Carlson",
+      "published": "2026-02-28T17:18:20+00:00",
+      "url": "https://www.youtube.com/watch?v=YDta8lcoRdY",
+      "thumbnail": "https://i.ytimg.com/vi/YDta8lcoRdY/hqdefault.jpg",
+      "channel": "José",
+      "channel_id": "UCeDKIj0G5XbultKOQnacu_w"
+    },
+    {
+      "id": "b0MIbo2aQqs",
+      "title": "this game engine is from the 90s",
+      "published": "2026-02-16T16:38:34+00:00",
+      "url": "https://www.youtube.com/watch?v=b0MIbo2aQqs",
+      "thumbnail": "https://i.ytimg.com/vi/b0MIbo2aQqs/hqdefault.jpg",
+      "channel": "Noodle",
+      "channel_id": "UCj74rJ9Lgl3WTngq675wxKg"
+    },
+    {
+      "id": "iZAdiZEIuMM",
+      "title": "Minnesota, Nick Shirley, and the Demonizing of a Community",
+      "published": "2026-01-27T19:44:35+00:00",
+      "url": "https://www.youtube.com/watch?v=iZAdiZEIuMM",
+      "thumbnail": "https://i.ytimg.com/vi/iZAdiZEIuMM/hqdefault.jpg",
+      "channel": "José",
+      "channel_id": "UCeDKIj0G5XbultKOQnacu_w"
+    },
+    {
+      "id": "e6uwbE_pxCE",
+      "title": "Attack of the Superwoke Gatekeepers!",
+      "published": "2026-01-27T14:25:28+00:00",
+      "url": "https://www.youtube.com/watch?v=e6uwbE_pxCE",
+      "thumbnail": "https://i.ytimg.com/vi/e6uwbE_pxCE/hqdefault.jpg",
+      "channel": "Thought Slime",
+      "channel_id": "UCrr7y8rEXb7_RiVniwvzk9w"
+    },
+    {
+      "id": "c7WqVx9x89s",
+      "title": "Ruminations on that DHS Penguin Tweet",
+      "published": "2026-01-26T23:15:34+00:00",
+      "url": "https://www.youtube.com/watch?v=c7WqVx9x89s",
+      "thumbnail": "https://i.ytimg.com/vi/c7WqVx9x89s/hqdefault.jpg",
+      "channel": "Folding Ideas",
+      "channel_id": "UCyNtlmLB73-7gtlBz00XOQQ"
+    },
+    {
+      "id": "TvC5Awau7rU",
+      "title": "The Gameplay, Art, & Lore of Lorwyn Eclipsed Prerelease",
+      "published": "2026-01-15T17:52:11+00:00",
+      "url": "https://www.youtube.com/watch?v=TvC5Awau7rU",
+      "thumbnail": "https://i.ytimg.com/vi/TvC5Awau7rU/hqdefault.jpg",
+      "channel": "Spice8Rack",
+      "channel_id": "UCDJACu5LRKWE7sqagICB-ew"
+    },
+    {
+      "id": "1yaGk9mxAMw",
+      "title": "Pretty, Pretty, Pretty Good: A Curb Your Enthusiasm Retrospective",
+      "published": "2026-01-10T18:21:45+00:00",
+      "url": "https://www.youtube.com/watch?v=1yaGk9mxAMw",
+      "thumbnail": "https://i.ytimg.com/vi/1yaGk9mxAMw/hqdefault.jpg",
+      "channel": "José",
+      "channel_id": "UCeDKIj0G5XbultKOQnacu_w"
+    },
+    {
+      "id": "i5m-RHS1fU0",
+      "title": "This Is How You Get JARHEAD Sequels",
+      "published": "2026-01-09T23:35:54+00:00",
+      "url": "https://www.youtube.com/watch?v=i5m-RHS1fU0",
+      "thumbnail": "https://i.ytimg.com/vi/i5m-RHS1fU0/hqdefault.jpg",
+      "channel": "Folding Ideas",
+      "channel_id": "UCyNtlmLB73-7gtlBz00XOQQ"
+    },
+    {
+      "id": "0vHKo55BoyI",
+      "title": "Why is Andy Ngo afraid of frogs?",
+      "published": "2025-12-22T15:23:59+00:00",
+      "url": "https://www.youtube.com/watch?v=0vHKo55BoyI",
+      "thumbnail": "https://i.ytimg.com/vi/0vHKo55BoyI/hqdefault.jpg",
+      "channel": "Thought Slime",
+      "channel_id": "UCrr7y8rEXb7_RiVniwvzk9w"
+    },
+    {
+      "id": "4JghX1MBU68",
+      "title": "Revolution, Fascism, & Magic: The Gathering | Aetherdrift",
+      "published": "2025-12-21T19:03:54+00:00",
+      "url": "https://www.youtube.com/watch?v=4JghX1MBU68",
+      "thumbnail": "https://i.ytimg.com/vi/4JghX1MBU68/hqdefault.jpg",
+      "channel": "Spice8Rack",
+      "channel_id": "UCDJACu5LRKWE7sqagICB-ew"
+    },
+    {
+      "id": "oP514mGrVcs",
+      "title": "We Need to Talk About Louis - Part 3",
+      "published": "2025-12-21T19:00:49+00:00",
+      "url": "https://www.youtube.com/watch?v=oP514mGrVcs",
+      "thumbnail": "https://i.ytimg.com/vi/oP514mGrVcs/hqdefault.jpg",
+      "channel": "Comedy Without Errors",
+      "channel_id": "UCBtWQTdJwOwC1YJPyCeugIg"
+    },
+    {
+      "id": "3eMOpjOYVpQ",
+      "title": "Ship of Theseus type beat",
+      "published": "2025-12-13T21:46:53+00:00",
+      "url": "https://www.youtube.com/watch?v=3eMOpjOYVpQ",
+      "thumbnail": "https://i.ytimg.com/vi/3eMOpjOYVpQ/hqdefault.jpg",
+      "channel": "Noodle",
+      "channel_id": "UCj74rJ9Lgl3WTngq675wxKg"
+    },
+    {
+      "id": "tEFOUP866ls",
+      "title": "The Human Cost of Borders",
+      "published": "2025-12-10T20:00:06+00:00",
+      "url": "https://www.youtube.com/watch?v=tEFOUP866ls",
+      "thumbnail": "https://i.ytimg.com/vi/tEFOUP866ls/hqdefault.jpg",
+      "channel": "The Leftist Cooks",
+      "channel_id": "UC358urzyldvD78E9o2sR-Og"
+    },
+    {
+      "id": "MsTUx-NOZTU",
+      "title": "We Need to Talk About Louis - Part 2",
+      "published": "2025-12-07T19:00:09+00:00",
+      "url": "https://www.youtube.com/watch?v=MsTUx-NOZTU",
+      "thumbnail": "https://i.ytimg.com/vi/MsTUx-NOZTU/hqdefault.jpg",
+      "channel": "Comedy Without Errors",
+      "channel_id": "UCBtWQTdJwOwC1YJPyCeugIg"
+    },
+    {
+      "id": "7UFgyLj87R4",
+      "title": "The Sharp Fall of Ben Shapiro",
+      "published": "2025-12-06T16:50:09+00:00",
+      "url": "https://www.youtube.com/watch?v=7UFgyLj87R4",
+      "thumbnail": "https://i.ytimg.com/vi/7UFgyLj87R4/hqdefault.jpg",
+      "channel": "José",
+      "channel_id": "UCeDKIj0G5XbultKOQnacu_w"
+    },
+    {
+      "id": "bC-8y2R6IxI",
+      "title": "what did you do",
+      "published": "2025-12-05T14:41:08+00:00",
+      "url": "https://www.youtube.com/watch?v=bC-8y2R6IxI",
+      "thumbnail": "https://i.ytimg.com/vi/bC-8y2R6IxI/hqdefault.jpg",
+      "channel": "Noodle",
+      "channel_id": "UCj74rJ9Lgl3WTngq675wxKg"
+    },
+    {
+      "id": "snNIZGuo92c",
+      "title": "S̶i̶l̶k̶s̶o̶n̶g̶ NakeyJakey is Outdated",
+      "published": "2025-12-01T00:43:00+00:00",
+      "url": "https://www.youtube.com/watch?v=snNIZGuo92c",
+      "thumbnail": "https://i.ytimg.com/vi/snNIZGuo92c/hqdefault.jpg",
+      "channel": "NakeyJakey",
+      "channel_id": "UCSdma21fnJzgmPodhC9SJ3g"
+    },
+    {
+      "id": "93nMBtXVAfM",
+      "title": "We Need to Talk About Louis - Part 1",
+      "published": "2025-11-26T19:00:04+00:00",
+      "url": "https://www.youtube.com/watch?v=93nMBtXVAfM",
+      "thumbnail": "https://i.ytimg.com/vi/93nMBtXVAfM/hqdefault.jpg",
+      "channel": "Comedy Without Errors",
+      "channel_id": "UCBtWQTdJwOwC1YJPyCeugIg"
+    }
+  ]
 }

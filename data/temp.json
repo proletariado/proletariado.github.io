@@ -1,4 +1,10 @@
 {
+  "1245620": {
+    "steamheader": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+    "steamdburl": "https://steamdb.info/app/1245620/patchnotes",
+    "date": "October 20th, 2026",
+    "rinurl": "https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=elden+ring&terms=all&fid[]=10&sf=titleonly"
+  },
   "1086940": {
     "steamheader": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg",
     "steamdburl": "https://steamdb.info/app/1086940/patchnotes",
@@ -10,11 +16,5 @@
     "steamdburl": "https://steamdb.info/app/1145350/patchnotes",
     "date": "September 23rd, 2026",
     "rinurl": "https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=hades+2&terms=all&fid[]=10&sf=titleonly"
-  },
-  "1245620": {
-    "steamheader": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
-    "steamdburl": "https://steamdb.info/app/1245620/patchnotes",
-    "date": "September 8th, 2026",
-    "rinurl": "https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=elden+ring&terms=all&fid[]=10&sf=titleonly"
   }
 }

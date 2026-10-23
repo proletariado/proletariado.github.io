@@ -42,18 +42,17 @@ def extract_appid_from_logo(logo_url):
     if match:
         return match.group(1)
     return None
-
+    
 def get_review_data(appid):
-    url = f"https://store.steampowered.com/appreviews/{appid}?json=1&language=all&num_per_page=0"
+    url = "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/"
+    params = {"input_json": json.dumps({"appid": int(appid), "num_per_page": 1, "languages": ["all"]})}
     try:
-        response = requests.get(url, timeout=10)
+        response = requests.get(url, params=params, timeout=10)
         response.raise_for_status()
-        data = response.json()
-        if data.get("success") == 1:
-            query_summary = data.get("query_summary", {})
-            return query_summary.get("total_positive", 0), query_summary.get("total_negative", 0)
-        return 0, 0
-    except Exception:
+        summary = response.json().get("response", {}).get("query_summary", {})
+        return summary.get("total_positive", 0), summary.get("total_negative", 0)
+    except Exception as e:
+        print(f"    ⚠️  Review fetch failed for {appid}: {e}")
         return 0, 0
 
 def get_steamcmd_cover(appid):

@@ -184,6 +184,11 @@ def main():
 
     top_games = top3 + rest
 
+    # Don't overwrite the existing file with an empty result
+    if not top_games:
+        print("\n⚠️  No games passed the filters. Keeping the existing data/top_recent.json untouched.")
+        return
+
     # Step 6: Fetch Cover URLs
     print(f"\n🖼️  Fetching cover art for Top {len(top_games)} games...")
     for game in top_games:

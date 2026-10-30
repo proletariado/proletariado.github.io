@@ -1,4 +1,4 @@
-name: Update Glance Game Feed
+name: Glance Game Feed
 on:
   schedule:
     # Runs every day at 1 AM (UTC)

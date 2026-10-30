@@ -1,4 +1,4 @@
-name: YouTube Feed Cache
+name: Glance YouTube Feed
 
 on:
   schedule:

@@ -27,7 +27,7 @@ jobs:
           pip install pandas requests
 
       - name: Run Steam build scraper
-        run: python .github/scripts/steam_build_scraper.py
+        run: python .github/scripts/steam_updates.py
 
       - name: Commit and push results
         run: |

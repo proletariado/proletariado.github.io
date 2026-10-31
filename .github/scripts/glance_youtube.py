@@ -21,7 +21,7 @@ CHANNELS = [
     "UC358urzyldvD78E9o2sR-Og",  # Leftist Cooks
 ]
 
-OUT = Path("data/youtube.json")
+OUT = Path("data/glance_youtube.json")
 PER_CHANNEL = 15   # videos kept per channel
 FLAT_LIMIT = 40    # videos in the combined list
 DELAY = 3          # seconds between channels

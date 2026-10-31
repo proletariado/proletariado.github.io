@@ -185,7 +185,7 @@ def main():
 
     # Don't overwrite the existing file with an empty result
     if not top_games:
-        print("\n⚠️  No games passed the filters. Keeping the existing data/top_recent.json untouched.")
+        print("\n⚠️  No games passed the filters. Keeping the existing data/glance_games.json untouched.")
         return
 
     # Step 6: Fetch Cover URLs
@@ -199,7 +199,7 @@ def main():
     # Step 7: Save to JSON
     output_dir = Path("data")
     output_dir.mkdir(exist_ok=True)
-    output_file = output_dir / "top_recent.json"
+    output_file = output_dir / "glance_games.json"
 
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(top_games, f, indent=2, ensure_ascii=False)

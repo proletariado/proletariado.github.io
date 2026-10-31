@@ -36,14 +36,14 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add data/top_recent.json
+          git add data/glance_games.json
 
           if git diff --staged --quiet; then
             echo "No changes detected."
             exit 0
           fi
 
-          git commit -m "Automated update: data/top_recent.json"
+          git commit -m "Automated update: data/glance_games.json"
 
           # Other workflows push to the same branch, so retry if we lose a race
           for attempt in 1 2 3 4 5; do

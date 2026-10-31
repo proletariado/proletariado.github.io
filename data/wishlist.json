@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "appid": "4231820",
+    "name": "Castlevania: Belmont's Curse",
+    "steamheader": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231820/6b65aec2c398006aea8b76e1463cc34d0e4ba68b/header.jpg",
+    "steamdburl": "https://steamdb.info/app/4231820/",
+    "rinurl": "https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=castlevania+belmont's+curse&terms=all&fid[]=10&sf=titleonly",
+    "released": "2026-10-14"
+  },
+  {
+    "appid": "2075800",
+    "name": "STAR WARS Zero Company",
+    "steamheader": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg",
+    "steamdburl": "https://steamdb.info/app/2075800/",
+    "rinurl": "https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=star+wars+zero+company&terms=all&fid[]=10&sf=titleonly",
+    "released": "2026-08-27"
+  },
+  {
+    "appid": "1888160",
+    "name": "Armored Core VI",
+    "steamheader": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/header.jpg",
+    "steamdburl": "https://steamdb.info/app/1888160/",
+    "rinurl": "https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=armored+core+vi&terms=all&fid[]=10&sf=titleonly",
+    "released": "2023-08-24"
+  }
+]

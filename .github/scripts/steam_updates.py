@@ -97,6 +97,7 @@ for appid in builds_csv.keys():
         appid,
         {
             "appid": appid,
+            "timestamp": metadata['timestamp'],
             "steamheader": header_url,
             "steamdburl": f"https://steamdb.info/app/{appid}/patchnotes",
             "date": formatted_date,

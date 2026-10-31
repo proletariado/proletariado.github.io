@@ -1,4 +1,4 @@
-name: Glance YouTube Feed
+name: Glance YouTube
 
 on:
   schedule:
@@ -22,7 +22,7 @@ jobs:
           python-version: "3.11"
 
       - name: Run YouTube feed script
-        run: python .github/scripts/glance_youtube_feed.py
+        run: python .github/scripts/glance_youtube.py
 
       - name: Commit and push results
         run: |

@@ -11,7 +11,7 @@ $(document).ready(function() {
         type: 'text'
     });
 
-    $.get('data/collection.csv', function(data) {
+    $.get('input/collection.csv', function(data) {
         var lines = data.split('\n');
         if (!lines || lines.length === 0) return;
         var headers = lines[0].split(',');

@@ -51,10 +51,10 @@ def get_steam_app_metadata(appid: int):
     except Exception:
         return None
 
-# Load builds.csv
+# Load input/steam_updates.csv
 builds_csv = {}
 try:
-    with open('input/builds.csv', newline='', encoding='utf-8') as f:
+    with open('input/steam_updates.csv', newline='', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
             builds_csv[row['appid']] = {
@@ -62,7 +62,7 @@ try:
                 "game": row['game']
             }
 except FileNotFoundError:
-    print("Error: data/builds.csv not found.")
+    print("Error: input/steam_updates.csv not found.")
     exit()
 
 temp_data_with_ts = []
@@ -114,7 +114,7 @@ temp_data_with_ts.sort(reverse=True, key=lambda x: x[0])
 temp_data = [data for _, _, data in temp_data_with_ts]
 
 # Write output JSON
-output_path = Path('data/updates.json')
+output_path = Path('data/steam_updates.json')
 output_path.parent.mkdir(exist_ok=True)
 with open(output_path, 'w', encoding='utf-8') as f:
     json.dump(temp_data, f, indent=2)

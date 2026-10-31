@@ -1,9 +1,32 @@
 $(document).ready(function() {
+    // One data file per wishlist source. To add another wishlist later,
+    // add its data file to this list. Missing or broken files are skipped.
+    var WISHLIST_SOURCES = [
+        'data/steam_wishlist.json'
+    ];
+
+    function loadSource(path) {
+        return fetch(path, {
+                cache: "no-store"
+            })
+            .then(function(resp) {
+                if (!resp.ok) throw new Error('Network response was not ok');
+                return resp.json();
+            })
+            .then(function(data) {
+                return Array.isArray(data) ? data : [];
+            })
+            .catch(function(err) {
+                console.error('Failed to load ' + path + ':', err);
+                return [];
+            });
+    }
+
     function renderWishlist(data) {
         var section = document.getElementById('wishlistSection');
         var container = document.getElementById('wishlist-tiles');
 
-        if (!Array.isArray(data) || data.length === 0) {
+        if (!data || data.length === 0) {
             $(section).hide();
             return;
         }
@@ -58,15 +81,14 @@ $(document).ready(function() {
         $(section).show();
     }
 
-    fetch('data/wishlist.json', {
-            cache: "no-store"
-        })
-        .then(function(resp) {
-            if (!resp.ok) throw new Error('Network response was not ok');
-            return resp.json();
-        })
-        .then(renderWishlist)
-        .catch(function(err) {
-            console.error('Failed to load wishlist info:', err);
+    Promise.all(WISHLIST_SOURCES.map(loadSource)).then(function(lists) {
+        var merged = [].concat.apply([], lists);
+
+        // Newest release first across all sources (ISO dates sort as strings)
+        merged.sort(function(a, b) {
+            return (b.released || '').localeCompare(a.released || '');
         });
+
+        renderWishlist(merged);
+    });
 });

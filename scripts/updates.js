@@ -61,7 +61,7 @@ $(document).ready(function() {
         return false;
     }
 
-    fetch('data/updates.json', {
+    fetch('data/steam_updates.json', {
             cache: "no-store"
         })
         .then(function(resp) {

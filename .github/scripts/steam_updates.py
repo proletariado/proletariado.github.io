@@ -96,6 +96,7 @@ for appid in builds_csv.keys():
         metadata['timestamp'],
         appid,
         {
+            "appid": appid,
             "steamheader": header_url,
             "steamdburl": f"https://steamdb.info/app/{appid}/patchnotes",
             "date": formatted_date,
@@ -108,11 +109,12 @@ for appid in builds_csv.keys():
 # Sort newest → oldest
 temp_data_with_ts.sort(reverse=True, key=lambda x: x[0])
 
-# Build final dictionary
-temp_data = {appid: data for _, appid, data in temp_data_with_ts}
+# Build final list. A list (not a dict keyed by appid) is used on purpose:
+# browsers reorder integer-like object keys numerically, which would undo the sort above.
+temp_data = [data for _, _, data in temp_data_with_ts]
 
 # Write output JSON
-output_path = Path('data/temp.json')
+output_path = Path('data/updates.json')
 output_path.parent.mkdir(exist_ok=True)
 with open(output_path, 'w', encoding='utf-8') as f:
     json.dump(temp_data, f, indent=2)

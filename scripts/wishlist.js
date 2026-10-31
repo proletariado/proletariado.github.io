@@ -21,6 +21,13 @@ $(document).ready(function() {
             img.alt = entry.name || 'Wishlist Game';
             card.appendChild(img);
 
+            if (entry.date) {
+                var overlay = document.createElement('div');
+                overlay.className = 'patch-date-overlay';
+                overlay.textContent = entry.date;
+                card.appendChild(overlay);
+            }
+
             var leftLink = document.createElement('a');
             leftLink.className = 'hover-zone left-zone';
             leftLink.href = entry.steamdburl || '#';
@@ -37,7 +44,7 @@ $(document).ready(function() {
 
             var leftText = document.createElement('div');
             leftText.className = 'hover-text left';
-            leftText.textContent = 'SteamDB';
+            leftText.textContent = 'Patch Notes';
             card.appendChild(leftText);
 
             var rightText = document.createElement('div');

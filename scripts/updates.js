@@ -1,13 +1,41 @@
 $(document).ready(function() {
+    // One data file per update source. To add another source later,
+    // add its data file to this list. Missing or broken files are skipped.
+    var UPDATE_SOURCES = [
+        'data/steam_updates.json'
+    ];
+
+    function loadSource(path) {
+        return fetch(path, {
+                cache: "no-store"
+            })
+            .then(function(resp) {
+                if (!resp.ok) throw new Error('Network response was not ok');
+                return resp.json();
+            })
+            .then(function(data) {
+                // Lists are the current format; objects are the old format
+                if (Array.isArray(data)) return data;
+                return Object.values(data || {});
+            })
+            .catch(function(err) {
+                console.error('Failed to load ' + path + ':', err);
+                return [];
+            });
+    }
+
     function renderBuilds(data) {
         var section = document.getElementById('latestPatchesSection');
         var container = document.getElementById('latest-patches');
 
-        if (hideSectionIfEmpty(section, data)) return;
+        if (!data || data.length === 0) {
+            $(section).hide();
+            return;
+        }
 
         container.innerHTML = '';
 
-        (Array.isArray(data) ? data : Object.values(data || {})).forEach(function(entry) {
+        data.forEach(function(entry) {
             if (!entry || !entry.steamheader) return;
 
             var card = document.createElement('div');
@@ -53,24 +81,15 @@ $(document).ready(function() {
         });
     }
 
-    function hideSectionIfEmpty(section, content) {
-        if (!content || (Array.isArray(content) && content.length === 0) || (typeof content === 'object' && Object.keys(content).length === 0)) {
-            $(section).hide();
-            return true;
-        }
-        return false;
-    }
+    Promise.all(UPDATE_SOURCES.map(loadSource)).then(function(lists) {
+        var merged = [].concat.apply([], lists);
 
-    fetch('data/steam_updates.json', {
-            cache: "no-store"
-        })
-        .then(function(resp) {
-            if (!resp.ok) throw new Error('Network response was not ok');
-            return resp.json();
-        })
-        .then(renderBuilds)
-        .catch(function(err) {
-            hideSectionIfEmpty('#latestPatchesSection', {});
-            console.error('Failed to load build info:', err);
+        // Newest first across all sources. Entries without a timestamp sort last,
+        // and ties keep their original order.
+        merged.sort(function(a, b) {
+            return (b.timestamp || 0) - (a.timestamp || 0);
         });
+
+        renderBuilds(merged);
+    });
 });

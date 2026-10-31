@@ -21,6 +21,18 @@ EXCLUDED_GENRES = ["Early Access"]
 DATE_FORMATS = ["%d %b, %Y", "%b %d, %Y", "%d %B, %Y", "%B %d, %Y", "%d %b %Y", "%b %d %Y"]
 
 
+def ordinal(n: int) -> str:
+    if 10 <= n % 100 <= 20:
+        suffix = 'th'
+    else:
+        suffix = {1: 'st', 2: 'nd', 3: 'rd'}.get(n % 10, 'th')
+    return str(n) + suffix
+
+
+def format_date(d) -> str:
+    return d.strftime(f"%B {ordinal(d.day)}, %Y")
+
+
 def make_keywords(game_name: str) -> str:
     words = re.findall(r"[a-zA-Z0-9]+(?:'[a-zA-Z0-9]+)*", game_name.lower())
     return "+".join(words)
@@ -140,8 +152,9 @@ def main():
                     "appid": appid,
                     "name": name,
                     "steamheader": header_url_for(appid, data),
-                    "steamdburl": f"https://steamdb.info/app/{appid}/",
+                    "steamdburl": f"https://steamdb.info/app/{appid}/patchnotes",
                     "rinurl": f"https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords={keywords}&terms=all&fid[]=10&sf=titleonly",
+                    "date": format_date(release_date),
                     "released": release_date.isoformat(),
                 }))
 

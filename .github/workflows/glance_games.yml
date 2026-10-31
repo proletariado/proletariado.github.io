@@ -40,10 +40,17 @@ jobs:
 
           if git diff --staged --quiet; then
             echo "No changes detected."
-          else
-            git commit -m "Automated update: data/top_recent.json"
-
-            git fetch origin
-            git rebase "origin/${GITHUB_REF#refs/heads/}"
-            git push origin HEAD:"${GITHUB_REF#refs/heads/}"
+            exit 0
           fi
+
+          git commit -m "Automated update: data/top_recent.json"
+
+          # Other workflows push to the same branch, so retry if we lose a race
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" \
+              && git push origin HEAD:"${GITHUB_REF_NAME}" \
+              && exit 0
+            echo "Push failed (attempt $attempt), retrying..."
+            sleep $((attempt * 5))
+          done
+          exit 1

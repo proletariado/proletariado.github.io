@@ -54,7 +54,7 @@ def get_steam_app_metadata(appid: int):
 # Load builds.csv
 builds_csv = {}
 try:
-    with open('data/builds.csv', newline='', encoding='utf-8') as f:
+    with open('input/builds.csv', newline='', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
             builds_csv[row['appid']] = {

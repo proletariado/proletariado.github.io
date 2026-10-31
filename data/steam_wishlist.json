@@ -18,6 +18,24 @@
     "released": "2026-08-27"
   },
   {
+    "appid": "1395520",
+    "name": "The Séance of Blake Manor",
+    "steamheader": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1395520/09df209c551539dc76679ca24b079b5771c2c281/header.jpg",
+    "steamdburl": "https://steamdb.info/app/1395520/patchnotes",
+    "rinurl": "https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=the+s+ance+of+blake+manor&terms=all&fid[]=10&sf=titleonly",
+    "date": "October 27th, 2025",
+    "released": "2025-10-27"
+  },
+  {
+    "appid": "1931770",
+    "name": "Chants of Sennaar",
+    "steamheader": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1931770/header.jpg",
+    "steamdburl": "https://steamdb.info/app/1931770/patchnotes",
+    "rinurl": "https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=chants+of+sennaar&terms=all&fid[]=10&sf=titleonly",
+    "date": "September 5th, 2023",
+    "released": "2023-09-05"
+  },
+  {
     "appid": "1888160",
     "name": "Armored Core VI",
     "steamheader": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/header.jpg",

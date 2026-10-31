@@ -7,7 +7,7 @@ $(document).ready(function() {
 
         container.innerHTML = '';
 
-        Object.values(data || {}).forEach(function(entry) {
+        (Array.isArray(data) ? data : Object.values(data || {})).forEach(function(entry) {
             if (!entry || !entry.steamheader) return;
 
             var card = document.createElement('div');
@@ -61,7 +61,7 @@ $(document).ready(function() {
         return false;
     }
 
-    fetch('data/temp.json', {
+    fetch('data/updates.json', {
             cache: "no-store"
         })
         .then(function(resp) {

@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-06T13:04:43+00:00",
+  "updated": "2026-11-07T11:49:57+00:00",
   "channels": {
     "UClt01z1wHHT7c5lKcU8pxRQ": {
       "name": "hbomberguy",
-      "fetched_at": "2026-11-06T13:04:43+00:00",
+      "fetched_at": "2026-11-07T11:49:57+00:00",
       "videos": [
         {
           "id": "yDp3cB5fHXQ",
@@ -114,7 +114,7 @@
     },
     "UCj74rJ9Lgl3WTngq675wxKg": {
       "name": "Noodle",
-      "fetched_at": "2026-11-06T13:04:43+00:00",
+      "fetched_at": "2026-11-07T11:49:57+00:00",
       "videos": [
         {
           "id": "SmA0cV9_vco",
@@ -225,7 +225,7 @@
     },
     "UCMAJEIm9a_NGhD7BgWDMoXw": {
       "name": "Jimmy McGee",
-      "fetched_at": "2026-11-06T13:04:43+00:00",
+      "fetched_at": "2026-11-07T11:49:57+00:00",
       "videos": [
         {
           "id": "rutDpTwztaY",
@@ -336,7 +336,7 @@
     },
     "UCyNtlmLB73-7gtlBz00XOQQ": {
       "name": "Folding Ideas",
-      "fetched_at": "2026-11-06T13:04:43+00:00",
+      "fetched_at": "2026-11-07T11:49:57+00:00",
       "videos": [
         {
           "id": "29K0R5S-v_k",
@@ -447,7 +447,7 @@
     },
     "UCSdma21fnJzgmPodhC9SJ3g": {
       "name": "NakeyJakey",
-      "fetched_at": "2026-11-06T13:04:43+00:00",
+      "fetched_at": "2026-11-07T11:49:57+00:00",
       "videos": [
         {
           "id": "vkYu3seV9FI",
@@ -558,7 +558,7 @@
     },
     "UCBtWQTdJwOwC1YJPyCeugIg": {
       "name": "Comedy Without Errors",
-      "fetched_at": "2026-11-06T13:04:43+00:00",
+      "fetched_at": "2026-11-07T11:49:57+00:00",
       "videos": [
         {
           "id": "LPQI3v9eeAs",
@@ -669,7 +669,7 @@
     },
     "UCDJACu5LRKWE7sqagICB-ew": {
       "name": "Spice8Rack",
-      "fetched_at": "2026-11-06T13:04:43+00:00",
+      "fetched_at": "2026-11-07T11:49:57+00:00",
       "videos": [
         {
           "id": "sc0wvKi9HLw",
@@ -780,7 +780,7 @@
     },
     "UCJ6o36XL0CpYb6U5dNBiXHQ": {
       "name": "Shaun",
-      "fetched_at": "2026-11-06T13:04:43+00:00",
+      "fetched_at": "2026-11-07T11:49:57+00:00",
       "videos": [
         {
           "id": "iL3gpxD6_rs",
@@ -891,7 +891,7 @@
     },
     "UCCT8a7d6S6RJUivBgNRsiYg": {
       "name": "Three Arrows",
-      "fetched_at": "2026-11-06T13:04:43+00:00",
+      "fetched_at": "2026-11-07T11:49:57+00:00",
       "videos": [
         {
           "id": "WD9skgXCd8k",
@@ -1002,7 +1002,7 @@
     },
     "UCo8186mZYAY49flt6HkbqlQ": {
       "name": "Leon Massey",
-      "fetched_at": "2026-11-06T13:04:43+00:00",
+      "fetched_at": "2026-11-07T11:49:57+00:00",
       "videos": [
         {
           "id": "IdPuXWIPLMg",
@@ -1113,8 +1113,15 @@
     },
     "UCeDKIj0G5XbultKOQnacu_w": {
       "name": "José",
-      "fetched_at": "2026-11-06T13:04:43+00:00",
+      "fetched_at": "2026-11-07T11:49:57+00:00",
       "videos": [
+        {
+          "id": "S_4WQr9zLQI",
+          "title": "How the 'Cornell 7' Story Was Weaponized",
+          "published": "2026-11-06T21:36:51+00:00",
+          "url": "https://www.youtube.com/watch?v=S_4WQr9zLQI",
+          "thumbnail": "https://i.ytimg.com/vi/S_4WQr9zLQI/hqdefault.jpg"
+        },
         {
           "id": "KurCok9-yhY",
           "title": "The Critical Drinker and Conservative Outrage",
@@ -1212,19 +1219,12 @@
           "published": "2025-07-12T15:45:01+00:00",
           "url": "https://www.youtube.com/watch?v=6Myh8TtAZR4",
           "thumbnail": "https://i.ytimg.com/vi/6Myh8TtAZR4/hqdefault.jpg"
-        },
-        {
-          "id": "hbLDH79MMCk",
-          "title": "Candace Owens's Garbage Investigations",
-          "published": "2025-06-14T15:46:42+00:00",
-          "url": "https://www.youtube.com/watch?v=hbLDH79MMCk",
-          "thumbnail": "https://i.ytimg.com/vi/hbLDH79MMCk/hqdefault.jpg"
         }
       ]
     },
     "UCrr7y8rEXb7_RiVniwvzk9w": {
       "name": "Thought Slime",
-      "fetched_at": "2026-11-06T13:04:43+00:00",
+      "fetched_at": "2026-11-07T11:49:57+00:00",
       "videos": [
         {
           "id": "Zd-LIPqLWkE",
@@ -1335,7 +1335,7 @@
     },
     "UC358urzyldvD78E9o2sR-Og": {
       "name": "The Leftist Cooks",
-      "fetched_at": "2026-11-06T13:04:43+00:00",
+      "fetched_at": "2026-11-07T11:49:57+00:00",
       "videos": [
         {
           "id": "K35FtbuyTh4",
@@ -1446,6 +1446,15 @@
     }
   },
   "videos": [
+    {
+      "id": "S_4WQr9zLQI",
+      "title": "How the 'Cornell 7' Story Was Weaponized",
+      "published": "2026-11-06T21:36:51+00:00",
+      "url": "https://www.youtube.com/watch?v=S_4WQr9zLQI",
+      "thumbnail": "https://i.ytimg.com/vi/S_4WQr9zLQI/hqdefault.jpg",
+      "channel": "José",
+      "channel_id": "UCeDKIj0G5XbultKOQnacu_w"
+    },
     {
       "id": "SmA0cV9_vco",
       "title": "I learned level design in a month to prove you wrong",
@@ -1796,15 +1805,6 @@
       "thumbnail": "https://i.ytimg.com/vi/MsTUx-NOZTU/hqdefault.jpg",
       "channel": "Comedy Without Errors",
       "channel_id": "UCBtWQTdJwOwC1YJPyCeugIg"
-    },
-    {
-      "id": "7UFgyLj87R4",
-      "title": "The Sharp Fall of Ben Shapiro",
-      "published": "2025-12-06T16:50:09+00:00",
-      "url": "https://www.youtube.com/watch?v=7UFgyLj87R4",
-      "thumbnail": "https://i.ytimg.com/vi/7UFgyLj87R4/hqdefault.jpg",
-      "channel": "José",
-      "channel_id": "UCeDKIj0G5XbultKOQnacu_w"
     }
   ]
 }

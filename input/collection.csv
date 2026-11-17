@@ -4,14 +4,14 @@ Series,Release,Game,Device,Done
 ,2012,Mark of the Ninja,Steam Deck,Yes
 ,2013,Dragon's Crown,Steam Deck [retro],
 ,2018,Return of the Obra Dinn,Steam Deck,Yes
-,2019,13 Sentinels: Aegis Rim,Switch 2 [switch],
+,2019,13 Sentinels: Aegis Rim,Switch 2,
 ,2019,A Short Hike,Steam Deck,Yes
 ,2019,Disco Elysium,Steam Deck,Yes
 ,2022,Jack Move,Steam Deck,
 ,2022,Stray,Computer,
 ,2023,Chants of Sennaar,Steam Deck,
 ,2023,Pseudoregalia,Steam Deck,Yes
-,2024,Unicorn Overlord,Switch 2 [switch],
+,2024,Unicorn Overlord,Switch 2,
 ,2025,Absolum,Steam Deck,
 ,2025,The Drifter,Steam Deck,
 Armored Core,2023,Armored Core: Fires of Rubicon,Computer,
@@ -46,10 +46,10 @@ Metroid,1986[hd],Metroid: Zero Mission [hd],Steam Deck [retro],Yes
 Metroid,1991[hd],Metroid: Samus Returns [hd],Steam Deck [retro],Yes
 Metroid,1994,Super Metroid,Steam Deck [retro],Yes
 Metroid,2002,Metroid Fusion,Steam Deck [retro],Yes
-Metroid,2021,Metroid Dread,Switch 2 [switch],Yes
+Metroid,2021,Metroid Dread,Switch 2,Yes
 Metroid,2027,Metroid Ravenous,Switch 2,
-ROM,2015,2064: Read Only Memories,Switch 2 [switch],
-ROM,2024,Read Only Memories: Neurodiver,Switch 2 [switch],
+ROM,2015,2064: Read Only Memories,Switch 2,
+ROM,2024,Read Only Memories: Neurodiver,Switch 2,
 Resident Evil,1998,Resident Evil 2 [hd],Computer,Yes
 Resident Evil,1999,Resident Evil 3 [hd],Computer,Yes
 Shadow Tactics,2016,Shadow Tactics: Blades of the Shogun,Steam Deck,Yes

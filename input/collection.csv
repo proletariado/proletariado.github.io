@@ -2,17 +2,17 @@ Series,Release,Game,Device,Done
 ,2008,Odin Sphere Leifthrasir,Steam Deck [retro],
 ,2012,Mark of the Ninja,Steam Deck,Yes
 ,2013,Dragon's Crown,Steam Deck [retro],
-,2017,Fight'N Rage,Steam Deck,Yes
 ,2018,Return of the Obra Dinn,Steam Deck,Yes
 ,2019,13 Sentinels: Aegis Rim,Switch 2 [switch],
 ,2019,A Short Hike,Steam Deck,Yes
 ,2019,Disco Elysium,Steam Deck,Yes
+,2022,Jack Move,Steam Deck,
 ,2022,Stray,Computer,
 ,2023,Chants of Sennaar,Steam Deck,
 ,2023,Pseudoregalia,Steam Deck,Yes
 ,2024,Unicorn Overlord,Switch 2 [switch],
 ,2025,Absolum,Steam Deck,
-,2025,Séance of Blake Manor,Steam Deck,
+,2025,The Drifter,Steam Deck,
 Armored Core,2023,Armored Core: Fires of Rubicon,Computer,
 Breath of Fire,2000,Breath of Fire 4,Steam Deck [retro],
 Castlevania,1997,Castlevania: Symphony of the Night,Steam Deck [retro],Yes
@@ -20,7 +20,10 @@ Crash,1999,Crash Team Racing: Nitro-Fueled [hd],Computer [retro],Yes
 Desperados,2020,Desperados 3,Steam Deck,
 Detective Grimoire,2019,Tangle Tower,Steam Deck,Yes
 Detective Grimoire,2026,Mermaid Mask,Steam Deck,Yes
-Diablo,2012,Diablo 3,Switch 2 [switch],Yes
+Dragon Age,2009,Dragon Age: Origins,Steam Deck,Yes
+Dragon Age,2011,Dragon Age II,Steam Deck,Yes
+Dragon Age,2014,Dragon Age: Inquisition,Steam Deck,
+Dragon Age,2024,Dragon Age: Veilguard,Computer,
 Drakengard,2010,Nier Replicant [hd],Computer,Yes
 Drakengard,2017,Nier: Automata,Computer,Yes
 Dungeons & Dragons,2023,Baldur's Gate 3,Computer,Yes
@@ -35,8 +38,6 @@ Hollow Knight,2017,Hollow Knight,Steam Deck,Yes
 Hollow Knight,2025,Hollow Knight: Silksong,Steam Deck,
 League of Legends,2021,Ruined King,Steam Deck,Yes
 Megami Tensei,2006,Persona 3 Reload [hd],Switch 2,
-Megami Tensei,2016,Persona 5 Royal,Switch 2 [switch],
-Megami Tensei,2021,Shin Megami Tensei 5: Vengeance,Switch 2 [switch],
 Metal Gear,1998,Metal Gear Solid,Steam Deck [retro],Yes
 Metal Gear,2014,Metal Gear Solid: Ground Zeroes,Steam Deck,Yes
 Metal Gear,2015,Metal Gear Solid 5: Phantom Pain,Steam Deck,
@@ -46,8 +47,6 @@ Metroid,1994,Super Metroid,Steam Deck [retro],Yes
 Metroid,2002,Metroid Fusion,Steam Deck [retro],Yes
 Metroid,2021,Metroid Dread,Switch 2 [switch],Yes
 Metroid,2027,Metroid Ravenous,Switch 2,
-Metroid Prime,2002,Metroid Prime Remastered [hd],Switch 2 [switch],
-Okami,2006,Okami,Switch 2 [switch],
 ROM,2015,2064: Read Only Memories,Switch 2 [switch],
 ROM,2024,Read Only Memories: Neurodiver,Switch 2 [switch],
 Resident Evil,1998,Resident Evil 2 [hd],Computer,Yes
